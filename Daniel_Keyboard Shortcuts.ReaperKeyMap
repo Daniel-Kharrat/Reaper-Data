@@ -1,0 +1,595 @@
+SCR 4 0 RS8d4e0e15416ba5e2f10ef369c0dcdf586473e1d0 "Custom: Daniel_Razor select item or empty space between items (set time selection).lua" "Daniel Kharrat/Protools/Daniel_Razor select item or empty space between items (set time selection).lua"
+SCR 260 0 RS27a56cf08a59140ed93f01b833aed2ccc0f86471 "Custom: Daniel_Color palette.lua" "Daniel Kharrat/Protools/Daniel_Color palette.lua"
+SCR 4 0 RSf113dce324e2a0300723ec1cdd6503384c836f56 "Custom: Daniel_Floating track input meter.lua" "Daniel Kharrat/Utility/Daniel_Floating track input meter.lua"
+SCR 4 0 RSfd22bbcb79022c5661e6684e0ac51a9aa5d4e71e "Custom: Daniel_Track left click.lua" "Daniel Kharrat/Protools/Daniel_Track left click.lua"
+SCR 4 0 RSb6cc7725bdd9ccbaa7d8258af9d957467ae9e697 "Custom: Daniel_Extend razor edit area to mouse cursor (select tracks in between).lua" "Daniel Kharrat/Protools/Daniel_Extend razor edit area to mouse cursor (select tracks in between).lua"
+SCR 4 0 RS64e92b5321521923538f70aead33157b880573b1 "Custom: Daniel_Add items to selection and extend time selection and razor edit area (select tracks in between).lua" "Daniel Kharrat/Protools/Daniel_Add items to selection and extend time selection and razor edit area (select tracks in between).lua"
+SCR 4 0 RSbd71958e8c2846a790f21cc6ee5064fe98e763b9 "Custom: Daniel_Toggle track selection.lua" "Daniel Kharrat/Protools/Daniel_Toggle track selection.lua"
+SCR 4 0 RS8a8eb17f5fb36a0b0df40a73318377fafb2a8236 "Custom: Daniel_Extend razor edit area to mouse cursor  (select tracks in between).lua" "Daniel Kharrat Scripts/Daniel_Extend razor edit area to mouse cursor  (select tracks in between).lua"
+SCR 4 0 RS1ee9bb229dabffe151848d7efa3c10f748e1a1cf "Custom: lyrics.lua" Cockos/lyrics.lua
+SCR 4 0 RS1cbf05b0c4f875518496f34a5ce45adefe05cb67 "Custom: Default_6.0_theme_adjuster.lua" Cockos/Default_6.0_theme_adjuster.lua
+SCR 4 0 RS6c2efb3f983d062c88752f161da4cbbd6ab222e9 "Custom: Default_7.0_theme_adjuster.lua" Cockos/Default_7.0_theme_adjuster.lua
+SCR 4 0 RSf4867fb512b6862093ba77f0d66879c90341b333 "Custom: triode_Add 1db to selected tracks sends via send window (or fader volume if no send window).lua" "\\?\C:\Users\Lenovo\AppData\Roaming\REAPER\Scripts\ReaTeam Scripts\Tracks Properties\triode_Adjust selected tracks sends via send window (or fader volume if no send window)\triode_Add 1db to selected tracks sends via send window (or fader volume if no send window).lua"
+SCR 4 0 RS4c2a112ba04e0a469e6d1d9fc5154d0ba9bf3d9a "Custom: triode_Subtract 1db from selected tracks sends via send window (or fader volume if no send window).lua" "\\?\C:\Users\Lenovo\AppData\Roaming\REAPER\Scripts\ReaTeam Scripts\Tracks Properties\triode_Adjust selected tracks sends via send window (or fader volume if no send window)\triode_Subtract 1db from selected tracks sends via send window (or fader volume if no send window).lua"
+SCR 4 0 RS47e1ced41c83db4447a896c747006b5610ccb672 "Custom: Mordi_Create single region from selected items (get name and color from folder track) and mark it in region render matrix via master.lua" "\\?\C:\Users\Lenovo\AppData\Roaming\REAPER\Scripts\ReaTeam Scripts\Regions\Mordi_Create single region from selected items (get name and color from folder track)\Mordi_Create single region from selected items (get name and color from folder track) and mark it in region render matrix via master.lua"
+SCR 4 0 RSa7fa8a03bf405195605e7fa56fe722442761ae5d "Custom: Mordi_Create single region from selected items (get name and color from folder track) and mark it in region render matrix.lua" "\\?\C:\Users\Lenovo\AppData\Roaming\REAPER\Scripts\ReaTeam Scripts\Regions\Mordi_Create single region from selected items (get name and color from folder track)\Mordi_Create single region from selected items (get name and color from folder track) and mark it in region render matrix.lua"
+SCR 4 0 RS7580f6fbb976a57e719e727730e9e17021c6a2a1 "Custom: FTC_MeMagic (6-5) Horizontally smart zoom to 20 notes at mouse or edit cursor, restrict to item + Vertically scroll to pitch, restrict to notes in visible area.lua" "\\?\C:\Users\Lenovo\AppData\Roaming\REAPER\Scripts\FTC Tools\MIDI Editor Magic\Generated\FTC_MeMagic (6-5) Horizontally smart zoom to 20 notes at mouse or edit cursor, restrict to item + Vertically scroll to pitch, restrict to notes in visible area.lua"
+SCR 4 0 RScde44fcd73a9c2922c0132c9e9b907706e12cb39 "Custom: FTC_MeMagic (8-5) Horizontally smart zoom to measures at mouse or edit cursor, restrict to item + Vertically scroll to pitch, restrict to notes in visible area.lua" "\\?\C:\Users\Lenovo\AppData\Roaming\REAPER\Scripts\FTC Tools\MIDI Editor Magic\Generated\FTC_MeMagic (8-5) Horizontally smart zoom to measures at mouse or edit cursor, restrict to item + Vertically scroll to pitch, restrict to notes in visible area.lua"
+SCR 4 0 RS1d8d78dcfe96a9e1c8e14b647d63bb80dfab3354 "Custom: ReaBlink_Monitor.lua" "ReaTeam Extensions/API/ReaBlink_Monitor.lua"
+SCR 4 0 RS6b4644d86854e10895485f184942fb69ecc26177 "Custom: ReaImGui_Demo.lua" "ReaTeam Extensions/API/ReaImGui_Demo.lua"
+SCR 4 0 RS19bb229134a8fa7be4dbcad8d21d4f798a420a1d "Custom: mpl_Load automation item 1.lua" "MPL Scripts/Automation Items/mpl_Load automation item 1.lua"
+SCR 4 0 RSb0338373380056826a30f99ef04d9e4c04ad7485 "Custom: mpl_Load automation item 10.lua" "MPL Scripts/Automation Items/mpl_Load automation item 10.lua"
+SCR 4 0 RS79e86238a7d320f2b1c40111eb0b71a678bc4dbc "Custom: mpl_Load automation item 2.lua" "MPL Scripts/Automation Items/mpl_Load automation item 2.lua"
+SCR 4 0 RSf0cf15a09457e6713c7eb6f8485c1675ad52000d "Custom: mpl_Load automation item 3.lua" "MPL Scripts/Automation Items/mpl_Load automation item 3.lua"
+SCR 4 0 RS32e67706d722f22c6e289715e3c3c959e6567300 "Custom: mpl_Load automation item 4.lua" "MPL Scripts/Automation Items/mpl_Load automation item 4.lua"
+SCR 4 0 RSc4d426493dc7a59d98180410a62ca05a149606de "Custom: mpl_Load automation item 5.lua" "MPL Scripts/Automation Items/mpl_Load automation item 5.lua"
+SCR 4 0 RS6c5c5027c11350848cf2f3a9e6b900336dd2b407 "Custom: mpl_Load automation item 6.lua" "MPL Scripts/Automation Items/mpl_Load automation item 6.lua"
+SCR 4 0 RSf47b09b83602a8198c7966148794be6033f31008 "Custom: mpl_Load automation item 7.lua" "MPL Scripts/Automation Items/mpl_Load automation item 7.lua"
+SCR 4 0 RSc4b62fd4184a2428af221ca8126f917f1feebd75 "Custom: mpl_Load automation item 8.lua" "MPL Scripts/Automation Items/mpl_Load automation item 8.lua"
+SCR 4 0 RSb2eaa5df1f6ea1844e5ac1ca2f3f41d350cf3d8c "Custom: mpl_Load automation item 9.lua" "MPL Scripts/Automation Items/mpl_Load automation item 9.lua"
+SCR 4 0 RSfc9335a0b8cbfe50a6d6fca9017400d48e92e815 "Custom: mpl_CopyPaste plugin data.lua" "MPL Scripts/FX/mpl_CopyPaste plugin data.lua"
+SCR 4 0 RS62598a5ceec9637ccb27302f17bf1e311c8da1cb "Custom: mpl_Randomize Track FX parameters.lua" "MPL Scripts/FX/mpl_Randomize Track FX parameters.lua"
+SCR 4 0 RSb4e1e99775d4771fe6619659eec8794435b9487b "Custom: mpl_Item ADSR.lua" "MPL Scripts/Items Properties/mpl_Item ADSR.lua"
+SCR 4 0 RS3a13e88306b3c2f4a0daa204b604da2fe8d3aff5 "Custom: mpl_Sampling tool.lua" "MPL Scripts/Various/mpl_Sampling tool.lua"
+SCR 4 0 RSe4ade3180d25d8887252b2391b6eddfb2916ea25 "Custom: X-Raym_Copy selected items active take names as CSV to clipboard.lua" "X-Raym Scripts/Items Properties/X-Raym_Copy selected items active take names as CSV to clipboard.lua"
+SCR 4 0 RS990d01342d4be4408a452b6e74937d061fe6a116 "Custom: X-Raym_XR ReaImGui Themer_ReaImGui.lua" "X-Raym Scripts/Various/X-Raym_XR ReaImGui Themer_ReaImGui.lua"
+SCR 4 0 RS84fbfbfc659de8329512325a0911264e4c437fc9 "Custom: X-Raym_Toggle Sonarworks SoundID monitor FX instance Speakers and Headphones presets.lua" "X-Raym Scripts/Various/X-Raym_Toggle Sonarworks SoundID monitor FX instance Speakers and Headphones presets.lua"
+SCR 4 0 RS44c691ef0bccebcfd689cfa33d87e16c82c37de0 "Custom: X-Raym_Toggle Sonarworks SoundID monitor FX instance Calibration state.lua" "X-Raym Scripts/Various/X-Raym_Toggle Sonarworks SoundID monitor FX instance Calibration state.lua"
+SCR 4 0 RSe1b4abd15a8de0d7f55716e5c24511941221bcd0 "Custom: X-Raym_State chunk editor_ReaImGui.lua" "X-Raym Scripts/Various/X-Raym_State chunk editor_ReaImGui.lua"
+SCR 4 0 RS467b1d1eaae2d8267f2d841ed609e77d095806d8 "Custom: X-Raym_Set SWS global startup action extstate value to On.lua" "X-Raym Scripts/Various/X-Raym_Set SWS global startup action extstate value to On.lua"
+SCR 4 0 RSdc7b6211b111412b7ef482f19c91f8bc1b5224f9 "Custom: X-Raym_Set SWS global startup action extstate value to Off.lua" "X-Raym Scripts/Various/X-Raym_Set SWS global startup action extstate value to Off.lua"
+SCR 4 0 RSad462996441fb2ea530c14b85f0999b4a4110d0e "Custom: X-Raym_Lua pattern viewer_ReaImGui.lua" "X-Raym Scripts/Various/X-Raym_Lua pattern viewer_ReaImGui.lua"
+SCR 4 0 RS23fb9eb8cba6516db92246be72d82e9ed1ffff98 "Custom: X-Raym_Double click over item action with zoom to content if MIDI take.lua" "X-Raym Scripts/Various/X-Raym_Double click over item action with zoom to content if MIDI take.lua"
+SCR 4 0 RSa77dfc02ab99b6ed9fae419b1ee921eca712a756 "Custom: X-Raym_Theme color tweaker_ReaImGui.lua" "X-Raym Scripts/Theme/X-Raym_Theme color tweaker_ReaImGui.lua"
+SCR 4 0 RS5f1c3eb1b2f5fe38795596ad3e0e9f1691a95cea "Custom: X-Raym_Export items notes from tracks or items selection as SRT subtitles file.lua" "X-Raym Scripts/Text Items and Item Notes/Subtitles/X-Raym_Export items notes from tracks or items selection as SRT subtitles file.lua"
+SCR 4 0 RSe7b291d9d05831395ec1bf59787a8dbb2b0add96 "Custom: X-Raym_Save all open project tabs.lua" "X-Raym Scripts/Project/X-Raym_Save all open project tabs.lua"
+SCR 4 0 RS93a600349847e19290684c3a65cbb729fcb15fdd "Custom: X-Raym_Take FX list_ReaImGui.lua" "X-Raym Scripts/Items Properties/X-Raym_Take FX list_ReaImGui.lua"
+SCR 4 0 RS666b2aa49f9a4105f91ea90c126020fd3a98dac4 "Custom: X-Raym_Set selected audio takes gain by columns according to takes max peak.lua" "X-Raym Scripts/Items Properties/X-Raym_Set selected audio takes gain by columns according to takes max peak.lua"
+SCR 4 0 RS25649327898c554b370648a150d10ada27940c43 "Custom: X-Raym_Set selected audio takes gain by columns according to takes average RMS.lua" "X-Raym Scripts/Items Properties/X-Raym_Set selected audio takes gain by columns according to takes average RMS.lua"
+SCR 4 0 RSb03e7d4a8589f6b8ac64ffbb106ae33d75e7faed "Custom: X-Raym_Move selected items to named tracks_ReaImGui.lua" "X-Raym Scripts/Items Properties/X-Raym_Move selected items to named tracks_ReaImGui.lua"
+SCR 4 0 RSc6cc42edab2af187511d51c5b23f45224d61540a "Custom: X-Raym_Replace similar MIDI takes by pools.lua" "X-Raym Scripts/Items Editing/X-Raym_Replace similar MIDI takes by pools.lua"
+SCR 4 0 RSa225723e10f7922a769d5bb6caa2b163faf9adc4 "Custom: X-Raym_Keep selected only active takes audio under or over peak volume threshold.lua" "X-Raym Scripts/Items Properties/X-Raym_Keep selected only active takes audio under or over peak volume threshold.lua"
+SCR 4 0 RS07995144d38c57631ef18612018b7ae0fcbf0b18 "Custom: X-Raym_Paste items-tracks and snap items if selected and snap enabled.lua" "X-Raym Scripts/Items Editing/X-Raym_Paste items-tracks and snap items if selected and snap enabled.lua"
+SCR 4 0 RSb19d912ec187c72fab529065f8fc4b9127fec03b "Custom: X-Raym_List installed FX according to their installation order_ReaImGui.lua" "X-Raym Scripts/FX/X-Raym_List installed FX according to their installation order_ReaImGui.lua"
+SCR 4 0 RS401abbfa943f5a90b5974cc282ce573007cdc7ac "Custom: talagan_Maximize bottommost dock.lua" "ReaTeam Scripts/View/talagan_Maximize bottommost dock.lua"
+SCR 4 0 RSaeeff9d1c6e726293352e9a56b14c877e1c6b513 "Custom: talagan_Maximize dock containing active MIDI Editor.lua" "ReaTeam Scripts/View/talagan_Maximize dock containing active MIDI Editor.lua"
+SCR 4 0 RS9a47e2a85309525e9a5f733a7b3143ecdca2b1a7 "Custom: talagan_Maximize dock containing project bay.lua" "ReaTeam Scripts/View/talagan_Maximize dock containing project bay.lua"
+SCR 4 0 RSc2e43d2f3960380e5a664fabf12bf8417804b7db "Custom: talagan_Maximize leftmost dock.lua" "ReaTeam Scripts/View/talagan_Maximize leftmost dock.lua"
+SCR 4 0 RS6c7e98998eb49e507f9eb37b0aba0f19bc5dc39d "Custom: talagan_Maximize rightmost dock.lua" "ReaTeam Scripts/View/talagan_Maximize rightmost dock.lua"
+SCR 4 0 RS26a089ab9d56f3c3c011a1253b3ad67e3922f7c4 "Custom: talagan_Maximize topmost dock.lua" "ReaTeam Scripts/View/talagan_Maximize topmost dock.lua"
+SCR 4 0 RS5609a64caa3e8a729d05282288af6124be72a802 "Custom: talagan_Minimize bottommost dock.lua" "ReaTeam Scripts/View/talagan_Minimize bottommost dock.lua"
+SCR 4 0 RS6c536a60a8bbdc3de0f87b8eb40ada50843bf234 "Custom: talagan_Minimize dock containing active MIDI Editor.lua" "ReaTeam Scripts/View/talagan_Minimize dock containing active MIDI Editor.lua"
+SCR 4 0 RS283a011ee89712220bdc0f307a38dc28bbaf6528 "Custom: talagan_Minimize dock containing project bay.lua" "ReaTeam Scripts/View/talagan_Minimize dock containing project bay.lua"
+SCR 4 0 RS88729f9ec0d2c6a763621dc7e2c713833becb385 "Custom: talagan_Minimize leftmost dock.lua" "ReaTeam Scripts/View/talagan_Minimize leftmost dock.lua"
+SCR 4 0 RSdbb2ae4d45bf91778a9ef03adaa2c86bff8e56b3 "Custom: talagan_Minimize rightmost dock.lua" "ReaTeam Scripts/View/talagan_Minimize rightmost dock.lua"
+SCR 4 0 RSf3b15031765edd9f41044c85fbe81ab9106b7177 "Custom: talagan_Minimize topmost dock.lua" "ReaTeam Scripts/View/talagan_Minimize topmost dock.lua"
+SCR 4 0 RS43c9e49e2579c78394cbb956b7515412be6569ff "Custom: talagan_Set bottommost dock height (500).lua" "ReaTeam Scripts/View/talagan_Set bottommost dock height (500).lua"
+SCR 4 0 RS391e837e141db06abf5dd6fcb29df7c827f95698 "Custom: talagan_Set bottommost dock size (500).lua" "ReaTeam Scripts/View/talagan_Set bottommost dock size (500).lua"
+SCR 4 0 RS03408d6f40939155517869adbdf5ea8875179d8c "Custom: talagan_Set dock containing active MIDI Editor height (500).lua" "ReaTeam Scripts/View/talagan_Set dock containing active MIDI Editor height (500).lua"
+SCR 4 0 RS04f6b4aa96f7642877a184ee4d550229a56a7753 "Custom: talagan_Set dock containing active MIDI Editor size (500).lua" "ReaTeam Scripts/View/talagan_Set dock containing active MIDI Editor size (500).lua"
+SCR 4 0 RSefc9c978b61bdd4a6309b533f6f1dcd2d9651dd3 "Custom: talagan_Set dock containing project bay size (500,700,500,700).lua" "ReaTeam Scripts/View/talagan_Set dock containing project bay size (500,700,500,700).lua"
+SCR 4 0 RS18a0aecad20cea158b73095d3b23b5186273517b "Custom: talagan_Set leftmost dock size (500).lua" "ReaTeam Scripts/View/talagan_Set leftmost dock size (500).lua"
+SCR 4 0 RSf8b90f02f062085a46cd66d3b3136cde3c0d62b6 "Custom: talagan_Set rightmost dock size (500).lua" "ReaTeam Scripts/View/talagan_Set rightmost dock size (500).lua"
+SCR 4 0 RS3b1262ec5d5836790e9d7356105d8f7d8a2af8dc "Custom: talagan_Set topmost dock size (500).lua" "ReaTeam Scripts/View/talagan_Set topmost dock size (500).lua"
+SCR 4 0 RSe42fae98cc0716ed574861ed824ea2502b2d32d0 "Custom: amagalma_Zoom to current region (where edit cursor is).lua" "ReaTeam Scripts/View/amagalma_Zoom to current region (where edit cursor is).lua"
+SCR 4 0 RS7e31552116b8976d3fb79ccc8c49e7faf5b61391 "Custom: amagalma_gianfini_ReaNamer (track-item-region-marker renaming utility).lua" "ReaTeam Scripts/Various/amagalma_gianfini_ReaNamer (track-item-region-marker renaming utility).lua"
+SCR 4 0 RS08843bdf4f572ee69ce74781a76cd8062d67ddb6 "Custom: amagalma_Create Impulse Response (IR) of the FX chain of the selected track.lua" "ReaTeam Scripts/Various/amagalma_Create Impulse Response (IR) of the FX chain of the selected track.lua"
+SCR 4 0 RS0026095f414f52d77e23f2735574b2f5359b5021 "Custom: edgemeal_Play lanes in time selection.lua" "ReaTeam Scripts/Tracks/edgemeal_Play lanes in time selection.lua"
+SCR 4 0 RS2dca9db51c011588bd77cc184f4fc7f93eec9e0f "Custom: cfillion_Apply render preset (create action).lua" "ReaTeam Scripts/Rendering/cfillion_Apply render preset (create action).lua"
+SCR 4 0 RS5e6e82e2207c060f65342579efcdf83a328fbed9 "Custom: cfillion_Apply render preset.lua" "ReaTeam Scripts/Rendering/cfillion_Apply render preset.lua"
+SCR 4 0 RS46b910ca796f89e19920858b92b85f0dec938ac1 "Custom: amagalma_Move cursor to equivalent position inside previous similarly named Region.lua" "ReaTeam Scripts/Regions/amagalma_Move cursor to equivalent position inside previous similarly named Region.lua"
+SCR 4 0 RS6f2f813feaad6a95af17370c70cc64680c2eb769 "Custom: amagalma_Move cursor to equivalent position inside next similarly named Region.lua" "ReaTeam Scripts/Regions/amagalma_Move cursor to equivalent position inside next similarly named Region.lua"
+SCR 4 0 RS0ae1c0d167b58ac1a4cf6f88ff56a550be53c375 "Custom: talagan_Scroll TCP to track currently edited in active MIDI editor.lua" "ReaTeam Scripts/MIDI Editor/talagan_Scroll TCP to track currently edited in active MIDI editor.lua"
+SCR 4 0 RSf8c89b8e075a211bd13ccad77139893cdfa1cd1a "Custom: talagan_Find overlapping notes in active take and select them.lua" "ReaTeam Scripts/MIDI Editor/talagan_Find overlapping notes in active take and select them.lua"
+SCR 4 0 RSaa69af6cf2d3f5018b478acf59f1c92c31a90606 "Custom: talagan_Find overlapping notes in project and report items.lua" "ReaTeam Scripts/MIDI Editor/talagan_Find overlapping notes in project and report items.lua"
+SCR 4 0 RS7617baa57b9856a891fa72d483a5f402a9a1e316 "Custom: az_Trim left, right or both item edges via mouse and razor.lua" "ReaTeam Scripts/Items Editing/az_Trim left, right or both item edges via mouse and razor.lua"
+SCR 4 0 RS2a5b26b6d88746cb7299bf451d51f184e4a96e98 "Custom: az_Open options for az_Trim left, right or both item edges via mouse and razor.lua" "ReaTeam Scripts/Items Editing/az_Trim left, right or both item edges via mouse and razor/az_Open options for az_Trim left, right or both item edges via mouse and razor.lua"
+SCR 4 0 RS2da9646f7662c6665f7e714c9c11cc5f6e5e8aa7 "Custom: az_Smart split items by mouse cursor.lua" "ReaTeam Scripts/Items Editing/az_Smart split items by mouse cursor.lua"
+SCR 4 0 RSb5661f05ec35997ceb0e469aae794f7c5b4cb3fa "Custom: az_Open options for az_Smart split items by mouse cursor.lua" "ReaTeam Scripts/Items Editing/az_Smart split items by mouse cursor/az_Open options for az_Smart split items by mouse cursor.lua"
+SCR 4 0 RSb55a6759475004789781b34a4e74fffae5820aed "Custom: az_Fade tool (work on context of mouse, razor or time selection).lua" "ReaTeam Scripts/Items Editing/az_Fade tool (work on context of mouse, razor or time selection).lua"
+SCR 4 0 RS6e9241613a3a063ad6c61a096958b7567f7ac9a7 "Custom: az_Open options for az_Fade tool.lua" "ReaTeam Scripts/Items Editing/az_Fade tool (work on context of mouse, razor or time selection)/az_Open options for az_Fade tool.lua"
+SCR 4 0 RS3d8993a481822d1e6b6fe96bca909a7b47d4f2cc "Custom: amagalma_Split items at timeline grid (with extra options).lua" "ReaTeam Scripts/Items Editing/amagalma_Split items at timeline grid (with extra options).lua"
+SCR 4 0 RS42397ff9cf55a720844e1f9a56e0d77326a297e0 "Custom: amagalma_Explode video items to separate audio and video items in separate tracks.lua" "ReaTeam Scripts/Items Editing/amagalma_Explode video items to separate audio and video items in separate tracks.lua"
+SCR 4 0 RSd2b39a5b9e4f6b7e5ad859dcde56fc020942dc4b "Custom: amagalma_Delete crossfade under mouse cursor.lua" "ReaTeam Scripts/Items Editing/amagalma_Delete crossfade under mouse cursor.lua"
+SCR 4 0 RS68f41cf2c0d944784c12381bd4c6c3600fd7cc9a "Custom: 80icio_Perfect Timing! - Audio Quantizer.lua" "ReaTeam Scripts/Items Editing/80icio_Perfect Timing! - Audio Quantizer.lua"
+SCR 4 0 RSa343a0541eff1d5299b0187a5e5f6e9b14807362 "Custom: tompad_FX chain AB.lua" "ReaTeam Scripts/FX/tompad_FX chain AB.lua"
+SCR 4 0 RSc0506deb5e60e625bc8fe2700a737a976fbfc43d "Custom: kawa_TrackFXs_Routing_Matrix_DS_KW.lua" "ReaTeam Scripts/FX/kawa_TrackFXs_Routing_Matrix_DS_KW.lua"
+SCR 4 0 RS9edc974e73c482660a1a65797f0b1fecf1a63892 "Custom: cfillion_Toggle bypass of selected FX in the focused FX chain window.lua" "ReaTeam Scripts/FX/cfillion_Toggle bypass of selected FX in the focused FX chain window.lua"
+SCR 4 0 RS2cb47e94dd820f675b7aae8cf071ca8291515a0b "Custom: cfillion_Toggle offline of selected FX in the focused FX chain window.lua" "ReaTeam Scripts/FX/cfillion_Toggle offline of selected FX in the focused FX chain window.lua"
+SCR 4 0 RS3745756c7ac5b6aaa71ec8bc788475bbbcd95ca9 "Custom: tilr_Snapshooter.lua" "ReaTeam Scripts/Envelopes/tilr_Snapshooter.lua"
+SCR 4 0 RS9e8d52fb773321d9f71f1b4c3bcd6260372b5070 "Custom: tilr_Snapshooter apply snap 1.lua" "ReaTeam Scripts/Envelopes/tilr_Snapshooter/tilr_Snapshooter apply snap 1.lua"
+SCR 4 0 RS056b85478134401f010b4b0289a93afc72f18f63 "Custom: tilr_Snapshooter apply snap 2.lua" "ReaTeam Scripts/Envelopes/tilr_Snapshooter/tilr_Snapshooter apply snap 2.lua"
+SCR 4 0 RS90eee91d481ca2084f4d04ecd4e2ce3d7f505fb3 "Custom: tilr_Snapshooter apply snap 3.lua" "ReaTeam Scripts/Envelopes/tilr_Snapshooter/tilr_Snapshooter apply snap 3.lua"
+SCR 4 0 RSebb9145ddece8520d70812e0f50936b6f8ae3fd2 "Custom: tilr_Snapshooter apply snap 4.lua" "ReaTeam Scripts/Envelopes/tilr_Snapshooter/tilr_Snapshooter apply snap 4.lua"
+SCR 4 0 RSb68138b955096e0ee104e3ab791990655e58430d "Custom: tilr_Snapshooter save snap 1.lua" "ReaTeam Scripts/Envelopes/tilr_Snapshooter/tilr_Snapshooter save snap 1.lua"
+SCR 4 0 RSb7c1c36ca77317e24fb350a6a295a4485286d4df "Custom: tilr_Snapshooter save snap 2.lua" "ReaTeam Scripts/Envelopes/tilr_Snapshooter/tilr_Snapshooter save snap 2.lua"
+SCR 4 0 RS2c3606a4da2145a55328ae11cfc501d8c6e5b5b9 "Custom: tilr_Snapshooter save snap 3.lua" "ReaTeam Scripts/Envelopes/tilr_Snapshooter/tilr_Snapshooter save snap 3.lua"
+SCR 4 0 RSc20f534b8fab59754e5d7407d2111fe776f4a0f5 "Custom: tilr_Snapshooter save snap 4.lua" "ReaTeam Scripts/Envelopes/tilr_Snapshooter/tilr_Snapshooter save snap 4.lua"
+SCR 4 0 RS2abda1690e3ef6cb62c2fe056f29bc67010361da "Custom: tilr_Snapshooter write snap 1.lua" "ReaTeam Scripts/Envelopes/tilr_Snapshooter/tilr_Snapshooter write snap 1.lua"
+SCR 4 0 RSfd0c904fd4db6039ea4c49b70b888f3a8f6b865a "Custom: tilr_Snapshooter write snap 2.lua" "ReaTeam Scripts/Envelopes/tilr_Snapshooter/tilr_Snapshooter write snap 2.lua"
+SCR 4 0 RS21e0b5279b3012fb48720df78e1d3dd60ec77775 "Custom: tilr_Snapshooter write snap 3.lua" "ReaTeam Scripts/Envelopes/tilr_Snapshooter/tilr_Snapshooter write snap 3.lua"
+SCR 4 0 RS696da72e547a5accf4e69129af5cd94926dfab9a "Custom: tilr_Snapshooter write snap 4.lua" "ReaTeam Scripts/Envelopes/tilr_Snapshooter/tilr_Snapshooter write snap 4.lua"
+SCR 4 0 RS73c3e54d75e83dddc6991e31516178c934edc7ca "Custom: BuyOne_Move selected FX envelope in track down one lane (cycle).lua" "ReaTeam Scripts/Envelopes/BuyOne_Move selected FX envelope/BuyOne_Move selected FX envelope in track down one lane (cycle).lua"
+SCR 4 0 RS43194b2f42bb29a1f466bea638a42106ddba94c5 "Custom: BuyOne_Move selected FX envelope in track down one lane (swap).lua" "ReaTeam Scripts/Envelopes/BuyOne_Move selected FX envelope/BuyOne_Move selected FX envelope in track down one lane (swap).lua"
+SCR 4 0 RSddb18768e2c06dc517f30d3733b665fa12f67551 "Custom: BuyOne_Move selected FX envelope in track to bottom lane.lua" "ReaTeam Scripts/Envelopes/BuyOne_Move selected FX envelope/BuyOne_Move selected FX envelope in track to bottom lane.lua"
+SCR 4 0 RS56f8959158d539c34f53afcb606ca660d080bb64 "Custom: BuyOne_Move selected FX envelope in track to top lane.lua" "ReaTeam Scripts/Envelopes/BuyOne_Move selected FX envelope/BuyOne_Move selected FX envelope in track to top lane.lua"
+SCR 4 0 RSe83e9c712e98109ae6e7cac9d7aaa1e974600a78 "Custom: BuyOne_Move selected FX envelope in track up one lane (cycle).lua" "ReaTeam Scripts/Envelopes/BuyOne_Move selected FX envelope/BuyOne_Move selected FX envelope in track up one lane (cycle).lua"
+SCR 4 0 RS4f99bc00c84df0216a94a3bae828c195c77d6c56 "Custom: BuyOne_Move selected FX envelope in track up one lane (swap).lua" "ReaTeam Scripts/Envelopes/BuyOne_Move selected FX envelope/BuyOne_Move selected FX envelope in track up one lane (swap).lua"
+SCR 4 0 RS0512a6be7d0eaad795b3342636bfe83f09cab062 "Custom: cfillion_Color inspector.lua" "ReaTeam Scripts/Development/cfillion_Color inspector.lua"
+SCR 4 0 RSefc5b7e979f6a3ce5d223a6c7bf8d7d968d231b6 "Custom: az_Play item or track under mouse until shortcut released.lua" "ReaTeam Scripts/Cursor/az_Play item or track under mouse until shortcut released.lua"
+SCR 4 0 RS78feb68452550f9996a5904d9be3a7aecfd0497a "Custom: mpl_Transient shaper.lua" "MPL Scripts/Various/mpl_Transient shaper.lua"
+SCR 4 0 RS61423f4f1224e18018576b5e3e1af80ebbd67f7e "Custom: mpl_Quantize Tool.lua" "MPL Scripts/Various/mpl_Quantize Tool.lua"
+SCR 4 0 RS74afc90c2d367a439bea77de0e88b976aa925e62 "Custom: mpl_TaskScheduler.lua" "MPL Scripts/Various/mpl_TaskScheduler.lua"
+SCR 4 0 RSa100031d58a5e8ef0d95a616350c0d6ab78034f1 "Custom: mpl_Peak follower tools.lua" "MPL Scripts/Various/mpl_Peak follower tools.lua"
+SCR 4 0 RS9611e131ad216839ec489c8f7122889374ab5d16 "Custom: mpl_Mapping Panel (background).lua" "MPL Scripts/Various/mpl_Mapping Panel (background).lua"
+SCR 4 0 RS2af67b560b8697ca174d4583a835ee84b9cfe1d9 "Custom: mpl_Write LUFS compensation to trim volume every bar.lua" "MPL Scripts/Tracks Properties/mpl_Write LUFS compensation to trim volume every bar.lua"
+SCR 4 0 RS42e5e253ac65d9cdcc00ef560e34ef9c96d1a9eb "Custom: mpl_Toggle reference track.lua" "MPL Scripts/Tracks Properties/mpl_Toggle reference track.lua"
+SCR 4 0 RS61b41e9fbabd7ee0331a21a5522a53774be32ed9 "Custom: mpl_Send control.lua" "MPL Scripts/Tracks Properties/mpl_Send control.lua"
+SCR 4 0 RS8002ca2ce50b0f3a0d65581fc529051b9191c6eb "Custom: mpl_Send selected tracks to track under mouse cursor (channel 1-2 to 1-2).lua" "MPL Scripts/Tracks Properties/mpl_Send selected tracks to track under mouse cursor (channel 1-2 to 1-2).lua"
+SCR 4 0 RSaa90209be898403440912867c109c4134115d727 "Custom: mpl_Send selected tracks to track under mouse cursor (channel 1-2 to 1-2, post-fader).lua" "MPL Scripts/Tracks Properties/mpl_Send selected tracks to track under mouse cursor (channel 1-2 to 1-2, post-fader).lua"
+SCR 4 0 RSbae14800b04e11f0a9d16fea291c3bd03ff3f0d2 "Custom: mpl_Send selected tracks to track under mouse cursor (channel 1-2 to 1-2, post-fx).lua" "MPL Scripts/Tracks Properties/mpl_Send selected tracks to track under mouse cursor (channel 1-2 to 1-2, post-fx).lua"
+SCR 4 0 RS2e420a801960f78b7eeb3411228eb44c566aea1d "Custom: mpl_Send selected tracks to track under mouse cursor (channel 1-2 to 1-2, pre-fx).lua" "MPL Scripts/Tracks Properties/mpl_Send selected tracks to track under mouse cursor (channel 1-2 to 1-2, pre-fx).lua"
+SCR 4 0 RSfc00264d7b365d13d41d6cbea7663c97b35e758b "Custom: mpl_Send selected tracks to track under mouse cursor (channel 1-2 to 11-12).lua" "MPL Scripts/Tracks Properties/mpl_Send selected tracks to track under mouse cursor (channel 1-2 to 11-12).lua"
+SCR 4 0 RS3ebf43f072c948ea9029b619a0271770b0860603 "Custom: mpl_Send selected tracks to track under mouse cursor (channel 1-2 to 13-14).lua" "MPL Scripts/Tracks Properties/mpl_Send selected tracks to track under mouse cursor (channel 1-2 to 13-14).lua"
+SCR 4 0 RS560413d0a5e272fe124d0d886452a9df8fc6d8f4 "Custom: mpl_Send selected tracks to track under mouse cursor (channel 1-2 to 15-16).lua" "MPL Scripts/Tracks Properties/mpl_Send selected tracks to track under mouse cursor (channel 1-2 to 15-16).lua"
+SCR 4 0 RSb0930fc4754e64b16e9948a49ce51e08bb7cf192 "Custom: mpl_Send selected tracks to track under mouse cursor (channel 1-2 to 3-4).lua" "MPL Scripts/Tracks Properties/mpl_Send selected tracks to track under mouse cursor (channel 1-2 to 3-4).lua"
+SCR 4 0 RSb9febdbad80649229c15f3da5bc3ff8f338314e7 "Custom: mpl_Send selected tracks to track under mouse cursor (channel 1-2 to 5-6).lua" "MPL Scripts/Tracks Properties/mpl_Send selected tracks to track under mouse cursor (channel 1-2 to 5-6).lua"
+SCR 4 0 RSf839ded7d755e739c509b8ede4345febe4a21c49 "Custom: mpl_Send selected tracks to track under mouse cursor (channel 1-2 to 7-8).lua" "MPL Scripts/Tracks Properties/mpl_Send selected tracks to track under mouse cursor (channel 1-2 to 7-8).lua"
+SCR 4 0 RS365acdbb4a49c411982a93191f5d769b8be74dec "Custom: mpl_Send selected tracks to track under mouse cursor (channel 1-2 to 9-10).lua" "MPL Scripts/Tracks Properties/mpl_Send selected tracks to track under mouse cursor (channel 1-2 to 9-10).lua"
+SCR 4 0 RS62b1f6f5b1c0c9b7b79a1c0d9e3fe4cd8be01576 "Custom: mpl_Send selected tracks to track under mouse cursor (channel 11-12 to 1-2).lua" "MPL Scripts/Tracks Properties/mpl_Send selected tracks to track under mouse cursor (channel 11-12 to 1-2).lua"
+SCR 4 0 RSf530e39104aa390068b1cbfd73dbe26655b38f84 "Custom: mpl_Send selected tracks to track under mouse cursor (channel 13-14 to 1-2).lua" "MPL Scripts/Tracks Properties/mpl_Send selected tracks to track under mouse cursor (channel 13-14 to 1-2).lua"
+SCR 4 0 RS93d9727e8fa21e87808815046681ff7e46d63d2d "Custom: mpl_Send selected tracks to track under mouse cursor (channel 15-16 to 1-2).lua" "MPL Scripts/Tracks Properties/mpl_Send selected tracks to track under mouse cursor (channel 15-16 to 1-2).lua"
+SCR 4 0 RS7d8568ccb95b5cfa247c8b8707fb5139218b4ded "Custom: mpl_Send selected tracks to track under mouse cursor (channel 3-4 to 1-2).lua" "MPL Scripts/Tracks Properties/mpl_Send selected tracks to track under mouse cursor (channel 3-4 to 1-2).lua"
+SCR 4 0 RS8148b624458c878bdd1b015b15a6d16f44592c28 "Custom: mpl_Send selected tracks to track under mouse cursor (channel 5-6 to 1-2).lua" "MPL Scripts/Tracks Properties/mpl_Send selected tracks to track under mouse cursor (channel 5-6 to 1-2).lua"
+SCR 4 0 RS5a91c46f1e2c47fd7532bf3a935c41e82f12640d "Custom: mpl_Send selected tracks to track under mouse cursor (channel 7-8 to 1-2).lua" "MPL Scripts/Tracks Properties/mpl_Send selected tracks to track under mouse cursor (channel 7-8 to 1-2).lua"
+SCR 4 0 RSe1157badd17db2fa772514c53b61c1cba0257128 "Custom: mpl_Send selected tracks to track under mouse cursor (channel 9-10 to 1-2).lua" "MPL Scripts/Tracks Properties/mpl_Send selected tracks to track under mouse cursor (channel 9-10 to 1-2).lua"
+SCR 4 0 RSea27bfdcc45ee8e262a6dfcfc8ffa00f9840cf07 "Custom: mpl_Send selected tracks to track under mouse cursor (multichannel).lua" "MPL Scripts/Tracks Properties/mpl_Send selected tracks to track under mouse cursor (multichannel).lua"
+SCR 4 0 RSa6edc8b63a4524e45f5854a377c5abe4999ff5e1 "Custom: mpl_Send track under mouse cursor to selected tracks  (channel 1-2 to 1-2).lua" "MPL Scripts/Tracks Properties/mpl_Send track under mouse cursor to selected tracks  (channel 1-2 to 1-2).lua"
+SCR 4 0 RSb70bb5135d9b929ab6fa2debed03769d919af9f9 "Custom: mpl_Send track under mouse cursor to selected tracks  (channel 1-2 to 11-12).lua" "MPL Scripts/Tracks Properties/mpl_Send track under mouse cursor to selected tracks  (channel 1-2 to 11-12).lua"
+SCR 4 0 RS84ba90b883484bf15cfcc0cbba5d96b13203573c "Custom: mpl_Send track under mouse cursor to selected tracks  (channel 1-2 to 13-14).lua" "MPL Scripts/Tracks Properties/mpl_Send track under mouse cursor to selected tracks  (channel 1-2 to 13-14).lua"
+SCR 4 0 RS4429ef893a8a9bc7c100377d1da1339d51c585ee "Custom: mpl_Send track under mouse cursor to selected tracks  (channel 1-2 to 15-16).lua" "MPL Scripts/Tracks Properties/mpl_Send track under mouse cursor to selected tracks  (channel 1-2 to 15-16).lua"
+SCR 4 0 RS0fa5a2a1db8bf64cda151c3375686b95ab599a56 "Custom: mpl_Send track under mouse cursor to selected tracks  (channel 1-2 to 3-4).lua" "MPL Scripts/Tracks Properties/mpl_Send track under mouse cursor to selected tracks  (channel 1-2 to 3-4).lua"
+SCR 4 0 RS2ff4c5908f9a8825bbba4caae3a4f2b1ce3f6e63 "Custom: mpl_Send track under mouse cursor to selected tracks  (channel 1-2 to 5-6).lua" "MPL Scripts/Tracks Properties/mpl_Send track under mouse cursor to selected tracks  (channel 1-2 to 5-6).lua"
+SCR 4 0 RSaf71a3469bbc5785bd9ef5de61314f8664ac5f60 "Custom: mpl_Send track under mouse cursor to selected tracks  (channel 1-2 to 7-8).lua" "MPL Scripts/Tracks Properties/mpl_Send track under mouse cursor to selected tracks  (channel 1-2 to 7-8).lua"
+SCR 4 0 RS847a0d3653979baa95a1fb9108877f525676fa0d "Custom: mpl_Send track under mouse cursor to selected tracks  (channel 1-2 to 9-10).lua" "MPL Scripts/Tracks Properties/mpl_Send track under mouse cursor to selected tracks  (channel 1-2 to 9-10).lua"
+SCR 4 0 RSe345ed39d65da2fefd1732caa50ec92a083d3d73 "Custom: mpl_Send track under mouse cursor to selected tracks  (channel 3-4 to 1-2).lua" "MPL Scripts/Tracks Properties/mpl_Send track under mouse cursor to selected tracks  (channel 3-4 to 1-2).lua"
+SCR 4 0 RS32b7b505f3479a897cef6bbfbc098a3e23cfccf8 "Custom: mpl_Send track under mouse cursor to selected tracks  (channel 5-6 to 1-2).lua" "MPL Scripts/Tracks Properties/mpl_Send track under mouse cursor to selected tracks  (channel 5-6 to 1-2).lua"
+SCR 4 0 RS0f8b99a223e0e435ab8b52aeaa2d491ddf125250 "Custom: mpl_Send track under mouse cursor to selected tracks  (multichannel).lua" "MPL Scripts/Tracks Properties/mpl_Send track under mouse cursor to selected tracks  (multichannel).lua"
+SCR 4 0 RS9e7734681a30f6de28fe2638fe3697f92510e346 "Custom: mpl_Send track under mouse cursor to selected tracks (channel 11-12 to 1-2).lua" "MPL Scripts/Tracks Properties/mpl_Send track under mouse cursor to selected tracks (channel 11-12 to 1-2).lua"
+SCR 4 0 RSe21fbc765a1e65fb0045fcf6cfbfb2074b4c8de7 "Custom: mpl_Send track under mouse cursor to selected tracks (channel 13-14 to 1-2).lua" "MPL Scripts/Tracks Properties/mpl_Send track under mouse cursor to selected tracks (channel 13-14 to 1-2).lua"
+SCR 4 0 RS2477afdb294ee8a857b476191d333816c65584f2 "Custom: mpl_Send track under mouse cursor to selected tracks (channel 15-16 to 1-2).lua" "MPL Scripts/Tracks Properties/mpl_Send track under mouse cursor to selected tracks (channel 15-16 to 1-2).lua"
+SCR 4 0 RS30e007e7561a1b406922b111e8453a9545e8e0ac "Custom: mpl_Send track under mouse cursor to selected tracks (channel 7-8 to 1-2).lua" "MPL Scripts/Tracks Properties/mpl_Send track under mouse cursor to selected tracks (channel 7-8 to 1-2).lua"
+SCR 4 0 RS1a984a8f57ae7efcbf783378ef9d5e51aded172f "Custom: mpl_Send track under mouse cursor to selected tracks (channel 9-10 to 1-2).lua" "MPL Scripts/Tracks Properties/mpl_Send track under mouse cursor to selected tracks (channel 9-10 to 1-2).lua"
+SCR 4 0 RSc8efa3612396fbadaba1e817d3b0a0af351a37fa "Custom: mpl_Tempo versions.lua" "MPL Scripts/Tempo/mpl_Tempo versions.lua"
+SCR 4 0 RS0e8b25e8d0b033a03cfd5bb290f55102e03dbacc "Custom: mpl_Set selected items stretch marker fade size to 10ms.lua" "MPL Scripts/Takes Properties/mpl_Set selected items stretch marker fade size to 10ms.lua"
+SCR 4 0 RS7563f23ea99e75fdf6e391f22acb34b543fd36d2 "Custom: mpl_Set selected items stretch marker fade size to 15ms.lua" "MPL Scripts/Takes Properties/mpl_Set selected items stretch marker fade size to 15ms.lua"
+SCR 4 0 RSd24035e63a91b21bc07019f32427120251e16a85 "Custom: mpl_Set selected items stretch marker fade size to 2.5ms.lua" "MPL Scripts/Takes Properties/mpl_Set selected items stretch marker fade size to 2.5ms.lua"
+SCR 4 0 RSded50c705948ce6e413e10c9b9c9b7f9aa9a7a8f "Custom: mpl_Set selected items stretch marker fade size to 5ms.lua" "MPL Scripts/Takes Properties/mpl_Set selected items stretch marker fade size to 5ms.lua"
+SCR 4 0 RS76bfdd64edd2cea786812c3afa2efe15468e4b98 "Custom: mpl_Set selected items takes pitch shift mode to Dirac LE.lua" "MPL Scripts/Takes Properties/mpl_Set selected items takes pitch shift mode to Dirac LE.lua"
+SCR 4 0 RS4f7cf01d68ac2b840e1f1bbe85f7d67abfa1cdc3 "Custom: mpl_Set selected items takes pitch shift mode to ReaReaRea.lua" "MPL Scripts/Takes Properties/mpl_Set selected items takes pitch shift mode to ReaReaRea.lua"
+SCR 4 0 RS9da4da9dc726e5751783108594c8c29e2c86316e "Custom: mpl_Set selected items takes pitch shift mode to Rrreeeaaa.lua" "MPL Scripts/Takes Properties/mpl_Set selected items takes pitch shift mode to Rrreeeaaa.lua"
+SCR 4 0 RS455c333b7cce143f2b675417dd1152b0c4687bcf "Custom: mpl_Set selected items takes pitch shift mode to Rubber Band.lua" "MPL Scripts/Takes Properties/mpl_Set selected items takes pitch shift mode to Rubber Band.lua"
+SCR 4 0 RSe32dc61fd72102f70055f156593167e0a0639cbe "Custom: mpl_Set selected items takes pitch shift mode to Simple windowed.lua" "MPL Scripts/Takes Properties/mpl_Set selected items takes pitch shift mode to Simple windowed.lua"
+SCR 4 0 RSf30216c20df04480cd3a0c5b0053be529fbf5cdb "Custom: mpl_Set selected items takes pitch shift mode to SoundTouch.lua" "MPL Scripts/Takes Properties/mpl_Set selected items takes pitch shift mode to SoundTouch.lua"
+SCR 4 0 RS28d038424ef90ec738254bdf4c564684c3c87a66 "Custom: mpl_Set selected items takes pitch shift mode to elastique 2.2.8 efficient.lua" "MPL Scripts/Takes Properties/mpl_Set selected items takes pitch shift mode to elastique 2.2.8 efficient.lua"
+SCR 4 0 RS999e59a9b74b1436e577edcf12e91727b232a7f5 "Custom: mpl_Set selected items takes pitch shift mode to elastique 2.2.8 pro.lua" "MPL Scripts/Takes Properties/mpl_Set selected items takes pitch shift mode to elastique 2.2.8 pro.lua"
+SCR 4 0 RS2a5d5d48e8d2ed5dea8395d4a832fb64e525774e "Custom: mpl_Set selected items takes pitch shift mode to elastique 2.2.8 soloist.lua" "MPL Scripts/Takes Properties/mpl_Set selected items takes pitch shift mode to elastique 2.2.8 soloist.lua"
+SCR 4 0 RSb524ca3477fd77b5558efe1cb443990a71e71e9f "Custom: mpl_Set selected items takes pitch shift mode to elastique 3.3.0 efficient.lua" "MPL Scripts/Takes Properties/mpl_Set selected items takes pitch shift mode to elastique 3.3.0 efficient.lua"
+SCR 4 0 RS6131764d20d8501ae7a8a736828528abef0f7e32 "Custom: mpl_Set selected items takes pitch shift mode to elastique 3.3.0 pro.lua" "MPL Scripts/Takes Properties/mpl_Set selected items takes pitch shift mode to elastique 3.3.0 pro.lua"
+SCR 4 0 RS640e8de041939a92c41bd244ee02590dbedafd67 "Custom: mpl_Set selected items takes pitch shift mode to elastique 3.3.0 soloist.lua" "MPL Scripts/Takes Properties/mpl_Set selected items takes pitch shift mode to elastique 3.3.0 soloist.lua"
+SCR 4 0 RS24e019ee2c645b7cff6c78660dd2f56f2cea3b5a "Custom: mpl_Set selected items takes pitch shift mode to project default.lua" "MPL Scripts/Takes Properties/mpl_Set selected items takes pitch shift mode to project default.lua"
+SCR 4 0 RSda8fc9654dbc50d3f57af22484c54bc365f20e39 "Custom: mpl_Set selected items time stretch mode to Balanced.lua" "MPL Scripts/Takes Properties/mpl_Set selected items time stretch mode to Balanced.lua"
+SCR 4 0 RSbe8f451f0783c2358fa61457cf1f1fe6ab95be2f "Custom: mpl_Set selected items time stretch mode to No pre echo reduction.lua" "MPL Scripts/Takes Properties/mpl_Set selected items time stretch mode to No pre echo reduction.lua"
+SCR 4 0 RSd3a992d7e3658cb073e045741217a7dc5cb6e332 "Custom: mpl_Set selected items time stretch mode to Tonal.lua" "MPL Scripts/Takes Properties/mpl_Set selected items time stretch mode to Tonal.lua"
+SCR 4 0 RSb7502b8fc02fca18b545bdb9e1ce649719e56e7b "Custom: mpl_Set selected items time stretch mode to Transient.lua" "MPL Scripts/Takes Properties/mpl_Set selected items time stretch mode to Transient.lua"
+SCR 4 0 RS1ce9781e4aa2398244b5bb506ba8bce7dcb9616e "Custom: mpl_Set selected items time stretch mode to default.lua" "MPL Scripts/Takes Properties/mpl_Set selected items time stretch mode to default.lua"
+SCR 4 0 RScba3ddbf87f02c540fb33703404ebf8b64b3fe37 "Custom: mpl_Stretch marker guard.lua" "MPL Scripts/Stretch Markers/mpl_Stretch marker guard.lua"
+SCR 4 0 RS1e972f69823ad2ad86a54e23f9bb362361ec318a "Custom: mpl_Render-in-place.lua" "MPL Scripts/Render/mpl_Render-in-place.lua"
+SCR 4 0 RS030b6b36d03bdb17b8fb56e8891529998da82c23 "Custom: mpl_Quantize selected MIDI notes ends.lua" "MPL Scripts/MIDI/mpl_Quantize selected MIDI notes ends.lua"
+SCR 4 0 RS852dd1f03707badb1116cc6d783269a3a4b097fd "Custom: mpl_Set REAPER password.lua" "MPL Scripts/Meta/mpl_Set REAPER password.lua"
+SCR 4 0 RSae415af6652447bdbdfe3d02b2079455a6674cda "Custom: mpl_Notification, set track volume changed.lua" "MPL Scripts/Meta/mpl_Notification, set track volume changed.lua"
+SCR 4 0 RScc489cf6a06a0d009aea0d69a02c036ee0a6351e "Custom: mpl_Notification.lua" "MPL Scripts/Meta/mpl_Notification.lua"
+SCR 4 0 RSfc6990bed179e8ecd167f17a2ca833b0a3e04af7 "Custom: mpl_RS5k manager (background).lua" "MPL Scripts/FX specific/mpl_RS5k manager (background).lua"
+SCR 4 0 RS86bcf48a635e42da8436b2e7f8b04031b273cf42 "Custom: mpl_RS5k_manager_Database_Lock.lua" "MPL Scripts/FX specific/mpl_RS5k_manager_Database_Lock.lua"
+SCR 4 0 RSc76573687dc46f70f65e428c72480d9a9326f7f7 "Custom: mpl_RS5k_manager_Database_NewKit.lua" "MPL Scripts/FX specific/mpl_RS5k_manager_Database_NewKit.lua"
+SCR 4 0 RSc3873eaab191889b89622fafaaf37b9e147e5aaf "Custom: mpl_RS5k_manager_DrumRack_Clear.lua" "MPL Scripts/FX specific/mpl_RS5k_manager_DrumRack_Clear.lua"
+SCR 4 0 RS42e6ee2c7e005aaa1ed9a5738ff1307225d6b152 "Custom: mpl_RS5k_manager_DrumRack_Mute.lua" "MPL Scripts/FX specific/mpl_RS5k_manager_DrumRack_Mute.lua"
+SCR 4 0 RS58d29ac8848d614ac101d04d5be19336576be383 "Custom: mpl_RS5k_manager_DrumRack_Solo.lua" "MPL Scripts/FX specific/mpl_RS5k_manager_DrumRack_Solo.lua"
+SCR 4 0 RS2bf046955270c12069c2287ccb92f0cfcdcd0f32 "Custom: mpl_RS5k_manager_Sampler_NextSample.lua" "MPL Scripts/FX specific/mpl_RS5k_manager_Sampler_NextSample.lua"
+SCR 4 0 RS711d7372e97bda6faec9ec2b53d5a86d432193a9 "Custom: mpl_RS5k_manager_Sampler_PreviousSample.lua" "MPL Scripts/FX specific/mpl_RS5k_manager_Sampler_PreviousSample.lua"
+SCR 4 0 RS39fabe8979b6129f4468910285f5a1114c572b10 "Custom: mpl_RS5k_manager_Sampler_RandSample.lua" "MPL Scripts/FX specific/mpl_RS5k_manager_Sampler_RandSample.lua"
+SCR 4 0 RS8d751505cbef38fd1c37be3bef1267c2507fdaac "Custom: mpl_Check REAPER password, quit if not match.lua" "MPL Scripts/Meta/mpl_Check REAPER password, quit if not match.lua"
+SCR 4 0 RSc8f93f3567c9343925b02034f6019239cd444b7e "Custom: mpl_Float RS5k instance by last clicked MIDI editor note.lua" "MPL Scripts/FX specific/mpl_Float RS5k instance by last clicked MIDI editor note.lua"
+SCR 4 0 RS643551b48e776cd6b8356f094fea4a5ba188a148 "Custom: mpl_Export selected items to single RS5k instance on selected track (use original source).lua" "MPL Scripts/FX specific/mpl_Export selected items to single RS5k instance on selected track (use original source).lua"
+SCR 4 0 RSf09c40c44cd23b805c22615c17259d2c4ce34ff6 "Custom: mpl_Export selected items to RS5k instances on selected track (use original source, wait for input).lua" "MPL Scripts/FX specific/mpl_Export selected items to RS5k instances on selected track (use original source, wait for input).lua"
+SCR 4 0 RSad0d3c622629cee28931ab13f623ad7e6e015fe8 "Custom: mpl_Export selected items to RS5k instances on selected track (use original source).lua" "MPL Scripts/FX specific/mpl_Export selected items to RS5k instances on selected track (use original source).lua"
+SCR 4 0 RS3f76102614c8bbc96d6b3d604243058e7d323261 "Custom: mpl_Explode selected track RS5k instances to new tracks.lua" "MPL Scripts/FX specific/mpl_Explode selected track RS5k instances to new tracks.lua"
+SCR 4 0 RSe9a3ab10e4aeaacfd5b709fcc48fa88ca22bd70d "Custom: mpl_ModulationEditor.lua" "MPL Scripts/FX/mpl_ModulationEditor.lua"
+SCR 4 0 RS8b00298aef2544ab84243839325b19aa47b292e8 "Custom: mpl_XYPad (background).lua" "MPL Scripts/FX/mpl_XYPad (background).lua"
+SCR 4 0 RSce28e3180c569205043e98df0de08668bf1119b8 "Custom: mpl_LearnEditor.lua" "MPL Scripts/FX/mpl_LearnEditor.lua"
+SCR 4 0 RS910b1dac79abc70a10add6f5e433a1acd8317536 "Custom: mpl_Various_functions.lua" "MPL Scripts/Functions/mpl_Various_functions.lua"
+SCR 4 0 RS0c71759b0f747845c73fd79811b320bb62d25a12 "Custom: mpl_InstrumentRack.lua" "MPL Scripts/FX/mpl_InstrumentRack.lua"
+SCR 4 0 RScf14c897a156df45d2a74ea82835330563e7c7f4 "Custom: spk77_Track IO mixer.lua" "ReaTeam Scripts/Various/spk77_Track IO mixer.lua"
+SCR 4 0 RS1f5d1e5b0b0564c0702999ffd57d3be3e65c7c6f "Custom: mpl_Visual Mixer.lua" "MPL Scripts/Various/mpl_Visual Mixer.lua"
+SCR 4 0 RSd682ff5672e4e29fd4dd37aef990f10f4bea3334 "Custom: testttttt.lua" testttttt.lua
+SCR 4 0 RSfc90f063da9bd2fad0b221b53e9aaabe59f51b4a "Custom: amagalma_Show menu for all Normalize Items actions.lua" "ReaTeam Scripts/Items Editing/amagalma_Show menu for all Normalize Items actions.lua"
+SCR 4 0 RS6476e9a9806ec4c566fdff10146fc28f2233490f "Custom: talagan_MaCCLane Launch tab by name BarName.lua" "ReaTeam Scripts/MIDI Editor/talagan_MaCCLane Launch tab by name BarName.lua"
+SCR 4 0 RS1f6eafc843c1a299b3e576a064e0a8bd200fcd6a "Custom: talagan_MaCCLane Launch tab by number 1.lua" "ReaTeam Scripts/MIDI Editor/talagan_MaCCLane Launch tab by number 1.lua"
+SCR 4 0 RSab5f09c68df3ab7b25c9c5aeedf29fab50c4ec31 "Custom: talagan_MaCCLane Launch tab by number 2.lua" "ReaTeam Scripts/MIDI Editor/talagan_MaCCLane Launch tab by number 2.lua"
+SCR 4 0 RS8b8a256bedad8c3008f1987ca4e169145346bcd7 "Custom: talagan_MaCCLane Launch tab by number 3.lua" "ReaTeam Scripts/MIDI Editor/talagan_MaCCLane Launch tab by number 3.lua"
+SCR 4 0 RS706856eedbfcd28fd1c76b9f0f0333f415149313 "Custom: talagan_MaCCLane Launch tab by number 4.lua" "ReaTeam Scripts/MIDI Editor/talagan_MaCCLane Launch tab by number 4.lua"
+SCR 4 0 RSc46287c80fda0f8d30cfcb8647c8847009ae0c96 "Custom: talagan_MaCCLane Launch tab by number 5.lua" "ReaTeam Scripts/MIDI Editor/talagan_MaCCLane Launch tab by number 5.lua"
+SCR 4 0 RS636d813345890616b6b242fb8ba8afce1a81a8bf "Custom: talagan_MaCCLane Launch tab by number 6.lua" "ReaTeam Scripts/MIDI Editor/talagan_MaCCLane Launch tab by number 6.lua"
+SCR 4 0 RSd3dc96da556ef5fc531f4792f659b04d919ead86 "Custom: talagan_MaCCLane Launch tab by number 7.lua" "ReaTeam Scripts/MIDI Editor/talagan_MaCCLane Launch tab by number 7.lua"
+SCR 4 0 RS2d84cfc3701745d8adc1725ce52277ac01651ea7 "Custom: talagan_MaCCLane Launch tab by number 8.lua" "ReaTeam Scripts/MIDI Editor/talagan_MaCCLane Launch tab by number 8.lua"
+SCR 4 0 RS8fb6bc4362a39b8f5031e0424ca7a7486d741dbc "Custom: talagan_MaCCLane Launch tab by role FooRole.lua" "ReaTeam Scripts/MIDI Editor/talagan_MaCCLane Launch tab by role FooRole.lua"
+SCR 4 0 RSc3bda629539811daa16010a6bc1e8d5ed5805daa "Custom: talagan_MaCCLane.lua" "ReaTeam Scripts/MIDI Editor/talagan_MaCCLane.lua"
+SCR 4 0 RSa10fd04cd923d0faa718ce586ce522698a93ba23 "Custom: amagalma_Show menu for dry run (calculate loudness) actions.lua" "ReaTeam Scripts/Various/amagalma_Show menu for dry run (calculate loudness) actions.lua"
+SCR 4 0 RS471adae97e5ff7df120bf435ff586dc30c6e0a96 "Custom: mpl_Disable solo for selected items active take selected spectral edits.lua" "MPL Scripts/Spectral edits/mpl_Disable solo for selected items active take selected spectral edits.lua"
+SCR 4 0 RSbe581f53251dd332b8817e14feb4d4f1977dbb21 "Custom: X-Raym_Delete take markers outside of selected items boundaries.lua" "X-Raym Scripts/Items Properties/X-Raym_Delete take markers outside of selected items boundaries.lua"
+SCR 4 0 RS62299e2de81ac0c1ed5ff646011759da72497994 "Custom: mpl_SendFader (background).lua" "MPL Scripts/Various/mpl_SendFader (background).lua"
+SCR 4 0 RS14767c6f6be29295da5ff4c33ba8f99690bc9d8f "Custom: mpl_Keyboard Shortcuts Visualizer.lua" "MPL Scripts/Various/mpl_Keyboard Shortcuts Visualizer.lua"
+SCR 4 0 RS1ec9ab1b4ff08bc6f116768e9e126fc3fe67a812 "Custom: mpl_Align takes.lua" "MPL Scripts/Various/mpl_Align takes.lua"
+SCR 4 0 RS2d498c87cf1dde3d03e38656c6a2098d3b453d63 "Custom: mpl_Toggle show tracks if play cursor crossing any of their items.lua" "MPL Scripts/Tracks Properties/mpl_Toggle show tracks if play cursor crossing any of their items.lua"
+SCR 4 0 RSe69ba732076ae499eaa99e11eb07e783fb56145f "Custom: mpl_Toggle show tracks if edit cursor crossing any of their items.lua" "MPL Scripts/Tracks Properties/mpl_Toggle show tracks if edit cursor crossing any of their items.lua"
+SCR 4 0 RS0a21839dbf0b6db3cd0b8528a3acf3592bab0672 "Custom: mpl_Toggle mute Vocal group.lua" "MPL Scripts/Tracks Properties/mpl_Toggle mute Vocal group.lua"
+SCR 4 0 RS6c0fdadfeaadd66c742fb64df8d159df98c8bc5d "Custom: mpl_Toggle mute Drums group.lua" "MPL Scripts/Tracks Properties/mpl_Toggle mute Drums group.lua"
+SCR 4 0 RS0963f9af5e7cb2da99eda6a196c02aa920ea7cef "Custom: mpl_Set track pan from take pan.lua" "MPL Scripts/Tracks Properties/mpl_Set track pan from take pan.lua"
+SCR 4 0 RSe6400cdc51d6539abeb49dd247957fec6a353892 "Custom: mpl_Check if multichannel item has mono source, convert to mono item if need .lua" "MPL Scripts/Takes Properties/mpl_Check if multichannel item has mono source, convert to mono item if need .lua"
+SCR 4 0 RSbb1c2478612e31313e88bfa21ebf397571eecdd9 "Custom: mpl_Toggle solo for selected items active take selected spectral edits.lua" "MPL Scripts/Spectral edits/mpl_Toggle solo for selected items active take selected spectral edits.lua"
+SCR 4 0 RS39a91eb4b61a4a25eea48f185a0bc4ea1bc151b7 "Custom: mpl_Toggle bypass for selected items all takes spectral edits.lua" "MPL Scripts/Spectral edits/mpl_Toggle bypass for selected items all takes spectral edits.lua"
+SCR 4 0 RS20a533c3a993d34dc53d3c715a4a6533a8b87fac "Custom: mpl_Propagate active take spectral edits to other takes.lua" "MPL Scripts/Spectral edits/mpl_Propagate active take spectral edits to other takes.lua"
+SCR 4 0 RS911aa8b83d50cc24bb9a41441cf6bbd43cfabbf9 "Custom: mpl_Port focused ReaEQ bands to spectral edits on selected items.lua" "MPL Scripts/Spectral edits/mpl_Port focused ReaEQ bands to spectral edits on selected items.lua"
+SCR 4 0 RSc8141fab20ff0a62f6077068da0f333f6e2bfe5c "Custom: mpl_Paste spectral edits to selected items active take.lua" "MPL Scripts/Spectral edits/mpl_Paste spectral edits to selected items active take.lua"
+SCR 4 0 RS13e2b057ae318bf179928138283c2abb5c4ef130 "Custom: mpl_Increase selected spectral edits gain by 1 db.lua" "MPL Scripts/Spectral edits/mpl_Increase selected spectral edits gain by 1 db.lua"
+SCR 4 0 RSae6a7ee8cd57c7148fd0386201f5d6de7f59b30c "Custom: mpl_Increase selected spectral edits gain by 0.5 db.lua" "MPL Scripts/Spectral edits/mpl_Increase selected spectral edits gain by 0.5 db.lua"
+SCR 4 0 RSc6ffa756dabe42f1fcfa4bc74f749f1465666aa3 "Custom: mpl_Enable solo for selected items active take selected spectral edits.lua" "MPL Scripts/Spectral edits/mpl_Enable solo for selected items active take selected spectral edits.lua"
+SCR 4 0 RS5f9a1a8859f7b00a21be9edbac2b6391c238ce21 "Custom: mpl_Disable bypass for selected items all takes spectral edits.lua" "MPL Scripts/Spectral edits/mpl_Disable bypass for selected items all takes spectral edits.lua"
+SCR 4 0 RSe37feec0cd3bd3278b7edcd0d82a99b3927cdc7d "Custom: mpl_Enable bypass for selected items all takes spectral edits.lua" "MPL Scripts/Spectral edits/mpl_Enable bypass for selected items all takes spectral edits.lua"
+SCR 4 0 RS6710983c8861adbc0658a77ffb69dbae8122baba "Custom: mpl_Decrease selected spectral edits gain by 1 db.lua" "MPL Scripts/Spectral edits/mpl_Decrease selected spectral edits gain by 1 db.lua"
+SCR 4 0 RS4c9b224ad19993c2d78ce91711bffd53dd3b671c "Custom: mpl_Decrease selected spectral edits gain by 0.5 db.lua" "MPL Scripts/Spectral edits/mpl_Decrease selected spectral edits gain by 0.5 db.lua"
+SCR 4 0 RS14fae9a112268ce8f0010105b865d1e961f0ede5 "Custom: mpl_Copy selected item active take spectral edits.lua" "MPL Scripts/Spectral edits/mpl_Copy selected item active take spectral edits.lua"
+SCR 4 0 RSe8bbd41311e23c11eef3f1bd4ee859c04286fc8f "Custom: mpl_Clear spectral edits from selected items active take.lua" "MPL Scripts/Spectral edits/mpl_Clear spectral edits from selected items active take.lua"
+SCR 4 0 RSd62b63c09a03296298d0f00fc9065edc9376ed22 "Custom: mpl_Duplicate items bar relative.lua" "MPL Scripts/Items Editing/mpl_Duplicate items bar relative.lua"
+SCR 4 0 RS98a37b2d1d2d6e3611c88c1fc7d5b85964ed3cf6 "Custom: tompad_MusicMath.lua" "ReaTeam Scripts/Various/tompad_MusicMath.lua"
+SCR 4 0 RS4c327e23b6b5964275551ebefd5dda54013f650f "Custom: talagan_Spectracular mono.lua" "ReaTeam Scripts/Various/talagan_Spectracular mono.lua"
+SCR 4 0 RS6c3f6b62d2772d4f7d31a8bc679256cbbe876654 "Custom: talagan_Spectracular stereo.lua" "ReaTeam Scripts/Various/talagan_Spectracular stereo.lua"
+SCR 4 0 RSd7336a7aaa8e115da05f53c30ebe87276809f31c "Custom: Neftovsky_Floating solo toolbar.lua" "ReaTeam Scripts/Tracks/Neftovsky_Floating solo toolbar.lua"
+SCR 4 0 RS3b5ee439d9603c45d163563de2f1845246b09e41 "Custom: az_Simple project reconform.lua" "ReaTeam Scripts/Various/az_Simple project reconform.lua"
+SCR 4 0 RSba22e507b47f2a208488fad6afcc5fe608042d91 "Custom: daodan_Solo, mute, rec-arm indicator (global, interactive).lua" "ReaTeam Scripts/Tracks/daodan_Solo, mute, rec-arm indicator (global, interactive).lua"
+SCR 4 0 RS203bd9dc40ded38d1a47d3947b7d9bb3c75ecd6a "Custom: daodan_Exclusive solo, mute, rec-arm via middle mouse click on track buttons (background).lua" "ReaTeam Scripts/Tracks/daodan_Exclusive solo, mute, rec-arm via middle mouse click on track buttons (background).lua"
+SCR 4 0 RSc2ad54e42a55f51f19af0dfe75994e53049f0338 "Custom: wikylepedia_Export track names to channel list CSV.lua" "ReaTeam Scripts/Project Properties/wikylepedia_Export track names to channel list CSV.lua"
+SCR 4 0 RS06959b96198f198947fba26cc41a79164033c28a "Custom: daodan_Resample notes - GUI.lua" "ReaTeam Scripts/MIDI Editor/daodan_Resample notes/daodan_Resample notes - GUI.lua"
+SCR 4 0 RSf512066b57807073e87b6473721b519f5bfe3250 "Custom: talagan_OneSmallStep.lua" "ReaTeam Scripts/MIDI Editor/talagan_OneSmallStep.lua"
+SCR 4 0 RS2c52fc9fd0503be464af33560e6affb1b73763eb "Custom: talagan_OneSmallStep Change edit mode - Insert.lua" "ReaTeam Scripts/MIDI Editor/talagan_OneSmallStep/actions/talagan_OneSmallStep Change edit mode - Insert.lua"
+SCR 4 0 RSa87717041e3c9fe265332cd5be80191cd3315ba4 "Custom: talagan_OneSmallStep Change edit mode - Navigate.lua" "ReaTeam Scripts/MIDI Editor/talagan_OneSmallStep/actions/talagan_OneSmallStep Change edit mode - Navigate.lua"
+SCR 4 0 RS1b81b71fe3823b8e7d76c3460e224c418f33964b "Custom: talagan_OneSmallStep Change edit mode - Repitch.lua" "ReaTeam Scripts/MIDI Editor/talagan_OneSmallStep/actions/talagan_OneSmallStep Change edit mode - Repitch.lua"
+SCR 4 0 RS8f43473539b98ed27d4d3fdc3b5c892b1fec8567 "Custom: talagan_OneSmallStep Change edit mode - Replace.lua" "ReaTeam Scripts/MIDI Editor/talagan_OneSmallStep/actions/talagan_OneSmallStep Change edit mode - Replace.lua"
+SCR 4 0 RS22fb10408527cd692f0b5046b9620c969fd71cc1 "Custom: talagan_OneSmallStep Change edit mode - Write.lua" "ReaTeam Scripts/MIDI Editor/talagan_OneSmallStep/actions/talagan_OneSmallStep Change edit mode - Write.lua"
+SCR 4 0 RS33bfff2ad37889f6bd7b69108983f4be1b07e0bc "Custom: talagan_OneSmallStep Change input mode - KeyboardPress.lua" "ReaTeam Scripts/MIDI Editor/talagan_OneSmallStep/actions/talagan_OneSmallStep Change input mode - KeyboardPress.lua"
+SCR 4 0 RSc028cf47f1f5db61ffbbb46a0471835f6126e9b3 "Custom: talagan_OneSmallStep Change input mode - KeyboardRelease.lua" "ReaTeam Scripts/MIDI Editor/talagan_OneSmallStep/actions/talagan_OneSmallStep Change input mode - KeyboardRelease.lua"
+SCR 4 0 RS8246705c82c0c7a31cbca8876bbf8a9429562b3e "Custom: talagan_OneSmallStep Change input mode - Punch.lua" "ReaTeam Scripts/MIDI Editor/talagan_OneSmallStep/actions/talagan_OneSmallStep Change input mode - Punch.lua"
+SCR 4 0 RS426c5e7bcfe623a55c0b0f91bebd1484fdc1e993 "Custom: talagan_OneSmallStep Change note len - 1.lua" "ReaTeam Scripts/MIDI Editor/talagan_OneSmallStep/actions/talagan_OneSmallStep Change note len - 1.lua"
+SCR 4 0 RSb0ab19c34843f82e6cff96c38f4c83eed46ba194 "Custom: talagan_OneSmallStep Change note len - 1_16.lua" "ReaTeam Scripts/MIDI Editor/talagan_OneSmallStep/actions/talagan_OneSmallStep Change note len - 1_16.lua"
+SCR 4 0 RScd542ff0630c52f44f91c42b4634b84c428ede69 "Custom: talagan_OneSmallStep Change note len - 1_2.lua" "ReaTeam Scripts/MIDI Editor/talagan_OneSmallStep/actions/talagan_OneSmallStep Change note len - 1_2.lua"
+SCR 4 0 RSa16c476b9d2020d993e1c07b52946295acc7873a "Custom: talagan_OneSmallStep Change note len - 1_32.lua" "ReaTeam Scripts/MIDI Editor/talagan_OneSmallStep/actions/talagan_OneSmallStep Change note len - 1_32.lua"
+SCR 4 0 RS65dc75db653b54adc8bcc02569e6f58853d6e69c "Custom: talagan_OneSmallStep Change note len - 1_4.lua" "ReaTeam Scripts/MIDI Editor/talagan_OneSmallStep/actions/talagan_OneSmallStep Change note len - 1_4.lua"
+SCR 4 0 RSb1a47351f79ce62d41f1d17d103b7b3fdf0b3970 "Custom: talagan_OneSmallStep Change note len - 1_64.lua" "ReaTeam Scripts/MIDI Editor/talagan_OneSmallStep/actions/talagan_OneSmallStep Change note len - 1_64.lua"
+SCR 4 0 RS73b70e8229f8554e56f9d098a860a38beb1a3dea "Custom: talagan_OneSmallStep Change note len - 1_8.lua" "ReaTeam Scripts/MIDI Editor/talagan_OneSmallStep/actions/talagan_OneSmallStep Change note len - 1_8.lua"
+SCR 4 0 RSc5e126a97812a6bd8b1b8366304bc3f254884741 "Custom: talagan_OneSmallStep Change note len modifier - Dotted.lua" "ReaTeam Scripts/MIDI Editor/talagan_OneSmallStep/actions/talagan_OneSmallStep Change note len modifier - Dotted.lua"
+SCR 4 0 RS4e523acf643bea67e0059d59dc29913630e37c4b "Custom: talagan_OneSmallStep Change note len modifier - Modified.lua" "ReaTeam Scripts/MIDI Editor/talagan_OneSmallStep/actions/talagan_OneSmallStep Change note len modifier - Modified.lua"
+SCR 4 0 RSef748bc8866eb603de2d252468157ec56a909863 "Custom: talagan_OneSmallStep Change note len modifier - Straight.lua" "ReaTeam Scripts/MIDI Editor/talagan_OneSmallStep/actions/talagan_OneSmallStep Change note len modifier - Straight.lua"
+SCR 4 0 RS02683ff21b615a2ddb1d1b8c8b929d4faee53ed2 "Custom: talagan_OneSmallStep Change note len modifier - Triplet.lua" "ReaTeam Scripts/MIDI Editor/talagan_OneSmallStep/actions/talagan_OneSmallStep Change note len modifier - Triplet.lua"
+SCR 4 0 RS8338f3f40324c0496c9b0382c3cf45813b29a5b3 "Custom: talagan_OneSmallStep Change note len modifier - Tuplet.lua" "ReaTeam Scripts/MIDI Editor/talagan_OneSmallStep/actions/talagan_OneSmallStep Change note len modifier - Tuplet.lua"
+SCR 4 0 RS6adec8f9f051dce0bf6c03fa2f5e97b54aba8cc5 "Custom: talagan_OneSmallStep Change note len param source - ItemConf.lua" "ReaTeam Scripts/MIDI Editor/talagan_OneSmallStep/actions/talagan_OneSmallStep Change note len param source - ItemConf.lua"
+SCR 4 0 RS9ad2e540f736374c180d4e75fbd70205e42756a1 "Custom: talagan_OneSmallStep Change note len param source - OSS.lua" "ReaTeam Scripts/MIDI Editor/talagan_OneSmallStep/actions/talagan_OneSmallStep Change note len param source - OSS.lua"
+SCR 4 0 RS8a779a964f717c1264da000236adfcc0240cd66c "Custom: talagan_OneSmallStep Change note len param source - ProjectGrid.lua" "ReaTeam Scripts/MIDI Editor/talagan_OneSmallStep/actions/talagan_OneSmallStep Change note len param source - ProjectGrid.lua"
+SCR 4 0 RS21c83b89657ab416d6daabda0b4d9c97bab2bc09 "Custom: talagan_OneSmallStep Cleanup helper JSFXs.lua" "ReaTeam Scripts/MIDI Editor/talagan_OneSmallStep/actions/talagan_OneSmallStep Cleanup helper JSFXs.lua"
+SCR 4 0 RScba64f085153feeb95fadf44f4e6ed09ce689d66 "Custom: talagan_OneSmallStep Decrease note len.lua" "ReaTeam Scripts/MIDI Editor/talagan_OneSmallStep/actions/talagan_OneSmallStep Decrease note len.lua"
+SCR 4 0 RS06adf07cee35975a8d1112a77438c5758b498182 "Custom: talagan_OneSmallStep Edit Action - Commit.lua" "ReaTeam Scripts/MIDI Editor/talagan_OneSmallStep/actions/talagan_OneSmallStep Edit Action - Commit.lua"
+SCR 4 0 RS39c5aa4e77bbc4da7541899118372768d16a68e3 "Custom: talagan_OneSmallStep Edit Action - CommitBack.lua" "ReaTeam Scripts/MIDI Editor/talagan_OneSmallStep/actions/talagan_OneSmallStep Edit Action - CommitBack.lua"
+SCR 4 0 RSa7a848a32a6cbfaa2d20a016f1ed13dcd1d369c9 "Custom: talagan_OneSmallStep Edit Action - Insert.lua" "ReaTeam Scripts/MIDI Editor/talagan_OneSmallStep/actions/talagan_OneSmallStep Edit Action - Insert.lua"
+SCR 4 0 RS725919d5f51b70422d89b55192f39e16b9d63f92 "Custom: talagan_OneSmallStep Edit Action - InsertBack.lua" "ReaTeam Scripts/MIDI Editor/talagan_OneSmallStep/actions/talagan_OneSmallStep Edit Action - InsertBack.lua"
+SCR 4 0 RS76af8424def30255873fea8c2561f5381b6973ec "Custom: talagan_OneSmallStep Edit Action - Navigate.lua" "ReaTeam Scripts/MIDI Editor/talagan_OneSmallStep/actions/talagan_OneSmallStep Edit Action - Navigate.lua"
+SCR 4 0 RS7939dd4134d64b3a290ce16f1fc8c84915299d6f "Custom: talagan_OneSmallStep Edit Action - NavigateBack.lua" "ReaTeam Scripts/MIDI Editor/talagan_OneSmallStep/actions/talagan_OneSmallStep Edit Action - NavigateBack.lua"
+SCR 4 0 RSb9d30bf44b98a178e36a4a8ce4a3c60345a44aa2 "Custom: talagan_OneSmallStep Edit Action - Repitch.lua" "ReaTeam Scripts/MIDI Editor/talagan_OneSmallStep/actions/talagan_OneSmallStep Edit Action - Repitch.lua"
+SCR 4 0 RS16a86a34700263b555e5e18046d30b8a199f7685 "Custom: talagan_OneSmallStep Edit Action - RepitchBack.lua" "ReaTeam Scripts/MIDI Editor/talagan_OneSmallStep/actions/talagan_OneSmallStep Edit Action - RepitchBack.lua"
+SCR 4 0 RSf987dda681a34e11ea8037adda1ea42791c58b5d "Custom: talagan_OneSmallStep Edit Action - Replace.lua" "ReaTeam Scripts/MIDI Editor/talagan_OneSmallStep/actions/talagan_OneSmallStep Edit Action - Replace.lua"
+SCR 4 0 RS892f57f350294f32cc7e8f0e0e60bbcd2d25e2f3 "Custom: talagan_OneSmallStep Edit Action - ReplaceBack.lua" "ReaTeam Scripts/MIDI Editor/talagan_OneSmallStep/actions/talagan_OneSmallStep Edit Action - ReplaceBack.lua"
+SCR 4 0 RSd33f8b505150f88d1bad44a2c74756869cb8552d "Custom: talagan_OneSmallStep Edit Action - Write.lua" "ReaTeam Scripts/MIDI Editor/talagan_OneSmallStep/actions/talagan_OneSmallStep Edit Action - Write.lua"
+SCR 4 0 RSc812f035ce3612a76e098d5550e90e2f4be1d25d "Custom: talagan_OneSmallStep Edit Action - WriteBack.lua" "ReaTeam Scripts/MIDI Editor/talagan_OneSmallStep/actions/talagan_OneSmallStep Edit Action - WriteBack.lua"
+SCR 4 0 RSf9e6821c7601a67837e7ca457d4cca0aeb34005a "Custom: talagan_OneSmallStep Increase note len.lua" "ReaTeam Scripts/MIDI Editor/talagan_OneSmallStep/actions/talagan_OneSmallStep Increase note len.lua"
+SCR 4 0 RS0bbcbcb0cb7174a2406403352d006c0573c4c8b4 "Custom: talagan_OneSmallStep Playback.lua" "ReaTeam Scripts/MIDI Editor/talagan_OneSmallStep/actions/talagan_OneSmallStep Playback.lua"
+SCR 4 0 RS702d76eb7a4eb2e9ff8f5e8cae1f86da1d10644e "Custom: talagan_OneSmallStep Set or remove operation marker.lua" "ReaTeam Scripts/MIDI Editor/talagan_OneSmallStep/actions/talagan_OneSmallStep Set or remove operation marker.lua"
+SCR 4 0 RSc54b0b47cf947352bef6c674f73a857ec1e1c92e "Custom: talagan_OneSmallStep Set or remove playback marker.lua" "ReaTeam Scripts/MIDI Editor/talagan_OneSmallStep/actions/talagan_OneSmallStep Set or remove playback marker.lua"
+SCR 4 0 RS7d9b4e5a27c6e959b456d7d009ece9f0c0c2588d "Custom: talagan_OneSmallStep Toggle armed.lua" "ReaTeam Scripts/MIDI Editor/talagan_OneSmallStep/actions/talagan_OneSmallStep Toggle armed.lua"
+SCR 4 0 RS6590d123c8cfd56be050eccc58a8751a7f480432 "Custom: amagalma_Insert time signature changes Tool.lua" "ReaTeam Scripts/Markers/amagalma_Insert time signature changes Tool.lua"
+SCR 4 0 RS83f2be42d23835520741f6929ed7a3089530332a "Custom: daodan_Alt+shift+left click to exclusive solo FX (bypass others) in TCP, MCP FX list (background).lua" "ReaTeam Scripts/FX/daodan_Alt+shift+left click to exclusive solo FX (bypass others) in TCP, MCP FX list (background).lua"
+SCR 4 0 RS789e5f1ffe78b2a62690f0f556c974077848d1d4 "Custom: amagalma_Calculate difference in LUFS for selected or all FX of focused FX chain.lua" "ReaTeam Scripts/FX/amagalma_Calculate difference in LUFS for selected or all FX of focused FX chain.lua"
+SCR 4 0 RS3a7a0f275f8293e87efedfbced72e18dd33de913 "Custom: MIDI CC Mapper X - Dump Current Function.lua" "ReaTeam JSFX/MIDI/talagan_MIDI CC Mapper X/MIDI CC Mapper X - Dump Current Function.lua"
+SCR 4 0 RS3aed121f0b7f35b7b1987ae813cba926ee1b9ecf "Custom: X-Raym_Open render folder in explorer or finder.lua" "X-Raym Scripts/Various/X-Raym_Open render folder in explorer or finder.lua"
+SCR 4 0 RSa33f0ea41dcf704c71f4e474e6d68195d0385602 "Custom: X-Raym_Sort selected tracks order according to their first item positions.lua" "X-Raym Scripts/Track Properties/X-Raym_Sort selected tracks order according to their first item positions.lua"
+SCR 4 0 RSf076d10f196128a78a02983dfdc7e8621af363a1 "Custom: mpl_Import media folder content as structured tracks.lua" "MPL Scripts/Tracks Editing/mpl_Import media folder content as structured tracks.lua"
+SCR 4 0 RSd17aea08854d1e330d7b288281da2a885ec8a092 "Custom: HeDa_AutoSend.lua" "ReaTeam Scripts/Various/HeDa_AutoSend.lua"
+SCR 4 0 RS5ad5387cc1a0eb2925dcdd66358792d5c797b75d "Custom: amagalma_Show path from list menu (Resource, Selected Item, Project File, Record, Secondary Record, Render).lua" "ReaTeam Scripts/Various/amagalma_Show path from list menu (Resource, Selected Item, Project File, Record, Secondary Record, Render).lua"
+SCR 4 0 RS8276cb08b56f059cd12376bcf88d02d2e2e552a8 "Custom: BuyOne_Split selected MIDI item at every note or chord.lua" "ReaTeam Scripts/Items Editing/BuyOne_Split selected MIDI item at every note or chord.lua"
+SCR 4 0 RS3e218a99ef75a0de4315c80367d4c9ff11497b44 "Custom: BuyOne_Generate .reabank file from FX preset list.lua" "ReaTeam Scripts/FX/BuyOne_Generate .reabank file from FX preset list.lua"
+SCR 4 0 RSc9e317ee0c4acd6d48f0833321451d7cd904a2a6 "Custom: mpl_Syncronize edit cursor beetween parent and subproject (background).lua" "MPL Scripts/Subprojects/mpl_Syncronize edit cursor beetween parent and subproject (background).lua"
+SCR 4 0 RSe845b06dd26181567b06f565e13b0fd3a4d8c2aa "Custom: amagalma_Toggle fixed item lanes (convert takes to lanes) and keep the same track height.lua" "ReaTeam Scripts/Tracks Properties/amagalma_Toggle fixed item lanes (convert takes to lanes) and keep the same track height.lua"
+SCR 4 0 RS8c4236ffd2569b2c01656e00138695a705f22fb1 "Custom: amagalma_Move selected track to dedicated Melodyne subproject.lua" "ReaTeam Scripts/Various/amagalma_Move selected track to dedicated Melodyne subproject.lua"
+SCR 4 0 RS252b3f63bf82754395c9304c27abc44aad5111b7 "Custom: az_Conform project using metadata (post-production tools).lua" "ReaTeam Scripts/Items Editing/az_Conform project using metadata (post-production tools).lua"
+SCR 4 0 RScd77aa140a6482d467d58cce6cdb954ca9f60c54 "Custom: az_Rename takes with last used settings (post-production tools).lua" "ReaTeam Scripts/Items Editing/az_Conform project using metadata (post-production tools)/az_Rename takes with last used settings (post-production tools).lua"
+SCR 4 0 RS645d52c7df204bdc4ab39d4298b58d40892f47f3 "Custom: mpl_Change gain of item audio segment under mouse cursor.lua" "MPL Scripts/Items Editing/mpl_Change gain of item audio segment under mouse cursor.lua"
+SCR 4 0 RSd997b0887296b5eb9c38d2ed37d1f32e7fc9f6f8 "Custom: saull_Peak envelope generator.lua" "ReaTeam Scripts/Envelopes/saull_Peak envelope generator.lua"
+SCR 4 0 RS2ec5fdb6f9c0977486dc306545455b8ae2b0851c "Custom: js_Video - Create thumbnail items in selected track for selected video items.lua" "ReaTeam Scripts/Video/js_Video - Create thumbnail items in selected track for selected video items.lua"
+SCR 4 0 RSbe0d943910af2690a1c9544df46a2e7797e28ab2 "Custom: js_Video - Automatically adjust size of thumbnail items when zooming.lua" "ReaTeam Scripts/Video/js_Video - Automatically adjust size of thumbnail items when zooming.lua"
+SCR 4 0 RS43dbdf6e92c50787f7a3365b2a7b4947aeae21ae "Custom: js_Video - Extract thumbnails of video items to empty, MIDI or video processor items.lua" "ReaTeam Scripts/Video/js_Video - Extract thumbnails of video items to empty, MIDI or video processor items.lua"
+SCR 4 0 RSe8e14bb884c22a323069b5ad958f22ca31dbc61d "Custom: leafac_Automixer setup.lua" "Leandro Facchinetti/Utility/leafac_Automixer setup.lua"
+SCR 4 0 RS63aeaacbd645d463afc4e6dda88932c4a113bcce "Custom: mpl_Explode last touched FX by channel and link children.lua" "MPL Scripts/FX/mpl_Explode last touched FX by channel and link children.lua"
+SCR 4 0 RSf829c5bca953a0877fba41eb8057ec14ec350494 "Custom: muorsic_Smart tempo and time signature changes.lua" "ReaTeam Scripts/Various/muorsic_Smart tempo and time signature changes.lua"
+SCR 4 0 RSa31e94c408150d20aad669ba609f01c4083975ae "Custom: mpl_RS5k_StepSequencer.lua" "MPL Scripts/FX specific/mpl_RS5k_StepSequencer.lua"
+SCR 4 0 RS843a485465bbbdcabe2da3efa7d37bbc2793130c "Custom: JWM_Group selected track sends.lua" "ReaTeam Scripts/Tracks/JWM_Group selected track sends.lua"
+SCR 4 0 RSb52f439c3fdfa36bc5dc9f2b7acfe62d8e67f9bf "Custom: Daniel_Change track routing from main to processing bus.lua" "Daniel Kharrat/Utility/Daniel_Change track routing from main to processing bus.lua"
+SCR 4 0 RSd2e825ef5e1c0848a2a346dc027f8a3a452bb1b2 "Custom: Daniel_Clear mute.lua" "Daniel Kharrat/Protools/Daniel_Clear mute.lua"
+SCR 4 0 RSffe1527d99e5f80610a082b66923bca59d6b9e8e "Custom: Daniel_Extend razor edit area to the left.lua" "Daniel Kharrat/Protools/Daniel_Extend razor edit area to the left.lua"
+SCR 4 0 RS9a3c45ee0677ca7673f897a0785dc7f2180d2f06 "Custom: Daniel_Move selected item to start of project.lua" "Daniel Kharrat/Protools/Daniel_Move selected item to start of project.lua"
+SCR 4 0 RSc5c30dc289b1dca725e9bf80c22e19a0fad74a35 "Custom: Daniel_Horizontal zoom preset 5.lua" "Daniel Kharrat/Protools/Daniel_Horizontal zoom preset 5.lua"
+SCR 4 0 RSa69d5e4d52afb4f2632e011e57f25e8486ccd450 "Custom: Daniel_Horizontal zoom preset 4.lua" "Daniel Kharrat/Protools/Daniel_Horizontal zoom preset 4.lua"
+SCR 4 0 RSfe357520d7b01a292e61badf3c5f17363a3f52b9 "Custom: Daniel_Horizontal zoom preset 3.lua" "Daniel Kharrat/Protools/Daniel_Horizontal zoom preset 3.lua"
+SCR 4 0 RS0b6ff327ab8a0206af48a21071f8a3c312ed549d "Custom: Daniel_Zoom out horizontal.lua" "Daniel Kharrat/Protools/Daniel_Zoom out horizontal.lua"
+SCR 4 0 RSa53dfc916138493adc5714520c1cbd03c4da5d15 "Custom: Daniel_Zoom in horizontal.lua" "Daniel Kharrat/Protools/Daniel_Zoom in horizontal.lua"
+SCR 4 0 RS2eab2d1b0e0310b6b7a95d07c6d6c032fe2a60f1 "Custom: Daniel_Zoom out project.lua" "Daniel Kharrat/Protools/Daniel_Zoom out project.lua"
+SCR 4 0 RSed0b475a38784d5262719d1418eaf40d41487443 "Custom: Daniel_Toggle input monitoring.lua" "Daniel Kharrat/Protools/Daniel_Toggle input monitoring.lua"
+SCR 4 0 RS4d509fc1fa50b610d51ce2c4a85a28a40b1577a7 "Custom: Daniel_Toggle expand folder track in mixer and edit window.lua" "Daniel Kharrat/Utility/Daniel_Toggle expand folder track in mixer and edit window.lua"
+SCR 4 0 RS82870ab6918ac03956469746545bfcb8a6603ee9 "Custom: Daniel_Tab to transient or items (forward).lua" "Daniel Kharrat/Protools/Daniel_Tab to transient or items (forward).lua"
+SCR 4 0 RS0a7a2199d37a7c3ae6b623f6972509d0c28eb61d "Custom: Daniel_Tab to transient or items (backward).lua" "Daniel Kharrat/Protools/Daniel_Tab to transient or items (backward).lua"
+SCR 4 0 RS6aad7a098fc5dd04666149374b5a13f9637e58b9 "Custom: Daniel_Split items at selection (if exists), else at edit cursor.lua" "Daniel Kharrat/Protools/Daniel_Split items at selection (if exists), else at edit cursor.lua"
+SCR 4 0 RSd9685022e44649dbae272b1fb10c99cd959211ee "Custom: Daniel_Select up track.lua" "Daniel Kharrat/Protools/Daniel_Select up track.lua"
+SCR 4 0 RS9a2811c06befb7729cca06d714b98e037ff48e0d "Custom: Daniel_Select up track(add).lua" "Daniel Kharrat/Protools/Daniel_Select up track(add).lua"
+SCR 4 0 RS1767c6f81e0b5510e995ccaac594d81449baf2ce "Custom: Daniel_Select everything before edit cursor.lua" "Daniel Kharrat/Protools/Daniel_Select everything before edit cursor.lua"
+SCR 4 0 RS37387d4e31b992883cde93424b285fd94c9ee0ad "Custom: Daniel_Select everything after edit cursor.lua" "Daniel Kharrat/Protools/Daniel_Select everything after edit cursor.lua"
+SCR 4 0 RS58f88f914ea683b9623db4681d8a21638f95f672 "Custom: Daniel_Select down track.lua" "Daniel Kharrat/Protools/Daniel_Select down track.lua"
+SCR 4 0 RS8e00eb32f6c6a6c4742a8c56f15ee571fa3d8fe0 "Custom: Daniel_Select down track(add).lua" "Daniel Kharrat/Protools/Daniel_Select down track(add).lua"
+SCR 4 0 RSf6098a40ebbc367e990daedac677a4b0b05bd1dc "Custom: Daniel_Select all tracks in between.lua" "Daniel Kharrat/Protools/Daniel_Select all tracks in between.lua"
+SCR 4 0 RS94dc0dfafd24dbff81a1b0fd6d5b7bb388026d1c "Custom: Daniel_Select all items within time selection on selected tracks.lua" "Daniel Kharrat/Protools/Daniel_Select all items within time selection on selected tracks.lua"
+SCR 4 0 RSba7a45c0e143950ade67eea1082933283902c192 "Custom: Daniel_Rewind.lua" "Daniel Kharrat/Protools/Daniel_Rewind.lua"
+SCR 4 0 RSc09d6b1651477c4d191223f0063a645dbafc213a "Custom: Daniel_Razor select item or empty space between items.lua" "Daniel Kharrat/Protools/Daniel_Razor select item or empty space between items.lua"
+SCR 4 0 RS22fc8c5f7cebdaa5c344f2ddf492a9e86531e472 "Custom: Daniel_Play-Stop.lua" "Daniel Kharrat/Protools/Daniel_Play-Stop.lua"
+SCR 4 0 RS18168549856c262e5943c8d4c0a6e676b5dbb1b3 "Custom: Daniel_Move edit cursor to play cursor.lua" "Daniel Kharrat/Protools/Daniel_Move edit cursor to play cursor.lua"
+SCR 4 0 RSa405821fb80d64b8aa5261a7f041fdaf96be4268 "Custom: Daniel_Paste items-tracks.lua" "Daniel Kharrat/Protools/Daniel_Paste items-tracks.lua"
+SCR 260 0 RS3954f4d6fde790290a4c7e86538380193bf6db74 "Custom: Daniel_Insertion follows playback.lua" "Daniel Kharrat/Protools/Daniel_Insertion follows playback.lua"
+SCR 4 0 RS800b2174ef3d288a17d08b43cbd0285cb1d4377d "Custom: Daniel_Heal splits.lua" "Daniel Kharrat/Protools/Daniel_Heal splits.lua"
+SCR 4 0 RS3103e156db24ecdfcea3113b3d1550de3515754d "Custom: Daniel_Half speed playback.lua" "Daniel Kharrat/Protools/Daniel_Half speed playback.lua"
+SCR 4 0 RS057feeedacb7ff3f150f72b3113c5937d1d5d88f "Custom: Daniel_Go to start of time selection.lua" "Daniel Kharrat/Protools/Daniel_Go to start of time selection.lua"
+SCR 4 0 RS93f3bfcd0f63f9addcead9b99369a47949d236a0 "Custom: Daniel_Go to start of project.lua" "Daniel Kharrat/Protools/Daniel_Go to start of project.lua"
+SCR 4 0 RSb1118b69cdc300a15ea4a25560bc1beec1292096 "Custom: Daniel_Go to end of time selection.lua" "Daniel Kharrat/Protools/Daniel_Go to end of time selection.lua"
+SCR 4 0 RSca054edd6b40163da02c34a0ab5a87991dc67ff5 "Custom: Daniel_Go to end of project.lua" "Daniel Kharrat/Protools/Daniel_Go to end of project.lua"
+SCR 4 0 RS5eb6e13eb0c3de3a2f8a08bacde2c6037dbbbbbf "Custom: Daniel_Global startup actions.lua" "Daniel Kharrat/Protools/Daniel_Global startup actions.lua"
+SCR 4 0 RS8124adf4549d9a22be8c33cc2bcc88d2da015bd3 "Custom: Daniel_Floating input meter.lua" "Daniel Kharrat/Utility/Daniel_Floating input meter.lua"
+SCR 4 0 RS526c27666a1340e4acc29d4d913e2f7275357f35 "Custom: Daniel_Fast forward.lua" "Daniel Kharrat/Protools/Daniel_Fast forward.lua"
+SCR 4 0 RS4766906eccc8c1e6e4a77aa3737995b654ab81e7 "Custom: Daniel_Fade in, out, crossfade.lua" "Daniel Kharrat/Protools/Daniel_Fade in, out, crossfade.lua"
+SCR 4 0 RS452d51d36e5aef4e7af83a3628921433a77b9d0c "Custom: Daniel_Extend selection to play cursor (during plaback).lua" "Daniel Kharrat/Protools/Daniel_Extend selection to play cursor (during plaback).lua"
+SCR 4 0 RSd4b64e6efb77ff29d985a431d626345ca09435a9 "Custom: Daniel_Extend razor edit area to mouse cursor.lua" "Daniel Kharrat/Protools/Daniel_Extend razor edit area to mouse cursor.lua"
+SCR 4 0 RS05a03347aa4480d19fa19c5fe811c76ca00aa119 "Custom: Daniel_Extend razor edit area to the right.lua" "Daniel Kharrat/Protools/Daniel_Extend razor edit area to the right.lua"
+SCR 4 0 RS4b4651de8c915efe4caf7158048a68ddcba15c89 "Custom: Daniel_Delete non existant scripts.lua" "Daniel Kharrat/Utility/Daniel_Delete non existant scripts.lua"
+SCR 4 0 RSca6b334a6865ac544a62db22eaed921a45f4f2b9 "Custom: Daniel_Clear solo.lua" "Daniel Kharrat/Protools/Daniel_Clear solo.lua"
+SCR 4 0 RS20cb8cdf6b60ff5ddb600f056c0a9a1abe6da44f "Custom: Daniel_Clear selection.lua" "Daniel Kharrat/Protools/Daniel_Clear selection.lua"
+SCR 4 0 RS73872e52305a191a83f55f1811ac45c380e98ff5 "Custom: Daniel_Check for soloed tracks.lua" "Daniel Kharrat/Protools/Daniel_Check for soloed tracks.lua"
+SCR 4 0 RS02a24eb9425299db445e21d1ed1a08a2f6818766 "Custom: Daniel_Clear record arm.lua" "Daniel Kharrat/Protools/Daniel_Clear record arm.lua"
+SCR 4 0 RS089967a15b5ae97c96687243d33f3cfb3cce8071 "Custom: Daniel_Check for muted tracks.lua" "Daniel Kharrat/Protools/Daniel_Check for muted tracks.lua"
+SCR 4 0 RSfbf14c60c7d9b451c2798b17c91081666146b2a4 "Custom: Daniel_Add items to selection and extend time selection and razor edit area.lua" "Daniel Kharrat/Protools/Daniel_Add items to selection and extend time selection and razor edit area.lua"
+SCR 4 0 RSe07de25faddbad1a82edccb0cf675ab4014f4a5a "Custom: Daniel_Check for armed tracks.lua" "Daniel Kharrat/Protools/Daniel_Check for armed tracks.lua"
+SCR 4 0 RS0b0f144ce77034e3cc21d563bd966f670259463e "Custom: X-Raym_Merge selected text items notes.lua" "X-Raym Scripts/Text Items and Item Notes/Creation/X-Raym_Merge selected text items notes.lua"
+SCR 4 0 RSd3a3c4a49e3dcd5f415f94b7f786d4b60bb2471d "Custom: X-Raym_Merge selected text items notes adding space.lua" "X-Raym Scripts/Text Items and Item Notes/Creation/X-Raym_Merge selected text items notes adding space.lua"
+SCR 4 0 RS11ad86f74401a679b2c7ece1745f9ac67124c0a6 "Custom: X-Raym_Merge selected text items notes adding new line.lua" "X-Raym Scripts/Text Items and Item Notes/Creation/X-Raym_Merge selected text items notes adding new line.lua"
+SCR 4 0 RS1851caad64e4685ddefb5c1d9d70f6dec2ca538c "Custom: talagan_OneSmallStep Change edit mode - (MIDI).lua" "ReaTeam Scripts/MIDI Editor/talagan_OneSmallStep/actions/talagan_OneSmallStep Change edit mode - (MIDI).lua"
+SCR 4 0 RS1919e26f634e6a14c30daaf69c7a764adb4d52e8 "Custom: talagan_OneSmallStep Change input mode - (MIDI).lua" "ReaTeam Scripts/MIDI Editor/talagan_OneSmallStep/actions/talagan_OneSmallStep Change input mode - (MIDI).lua"
+SCR 4 0 RS9c919796db219082ff473e37ac46a4442d2a88d3 "Custom: talagan_OneSmallStep Change note len - (MIDI).lua" "ReaTeam Scripts/MIDI Editor/talagan_OneSmallStep/actions/talagan_OneSmallStep Change note len - (MIDI).lua"
+SCR 4 0 RSa34da8993d701c85e90df52515892611adc91572 "Custom: talagan_OneSmallStep Change note len modifier - (MIDI).lua" "ReaTeam Scripts/MIDI Editor/talagan_OneSmallStep/actions/talagan_OneSmallStep Change note len modifier - (MIDI).lua"
+SCR 4 0 RS94d83adeb85fbd3120a20ba7cf0e0c8dfc5c99da "Custom: talagan_OneSmallStep Change note len param source - (MIDI).lua" "ReaTeam Scripts/MIDI Editor/talagan_OneSmallStep/actions/talagan_OneSmallStep Change note len param source - (MIDI).lua"
+SCR 4 0 RSd6d7032ee1b0034b158b2635f02ad89a7693a8ab "Custom: amagalma_Normalize selected tracks - calculate only for the time selection, if present (peakRMSLUFS)....lua" "ReaTeam Scripts/Tracks Properties/amagalma_Normalize selected tracks - calculate only for the time selection, if present (peakRMSLUFS)....lua"
+SCR 4 0 RSf2f1fe8e459e24331be0848261711820cc79784e "Custom: Daniel_Double speed playback.lua" "Daniel Kharrat/Protools/Daniel_Double speed playback.lua"
+KEY 0 45 0 0		 # Main : - : DISABLED DEFAULT
+KEY 1 109 0 0		 # Main : Num - : DISABLED DEFAULT
+KEY 0 61 0 0		 # Main : = : DISABLED DEFAULT
+KEY 255 12520 0 0		 # Main : MediaKbd+Record : DISABLED DEFAULT
+KEY 255 250 0 0		 # Main : Alt+Mousewheel : DISABLED DEFAULT
+KEY 255 216 0 0		 # Main : HorizWheel : DISABLED DEFAULT
+KEY 255 218 0 0		 # Main : Alt+HorizWheel : DISABLED DEFAULT
+KEY 13 83 0 0		 # Main : Ctrl+Shift+S : DISABLED DEFAULT
+KEY 21 83 0 0		 # Main : Alt+Shift+S : DISABLED DEFAULT
+KEY 17 77 0 0		 # Main : Alt+M : DISABLED DEFAULT
+KEY 25 82 0 0		 # Main : Ctrl+Alt+R : DISABLED DEFAULT
+KEY 1 32804 0 0		 # Main : Home : DISABLED DEFAULT
+KEY 255 13032 0 0		 # Main : MediaKbd+Rew : DISABLED DEFAULT
+KEY 1 32803 0 0		 # Main : End : DISABLED DEFAULT
+KEY 255 12776 0 0		 # Main : MediaKbd+FF : DISABLED DEFAULT
+KEY 9 32802 0 0		 # Main : Ctrl+Page Down : DISABLED DEFAULT
+KEY 13 88 0 0		 # Main : Ctrl+Shift+X : DISABLED DEFAULT
+KEY 1 120 0 0		 # Main : F9 : DISABLED DEFAULT
+KEY 1 68 0 0		 # Main : D : DISABLED DEFAULT
+KEY 9 49 0 0		 # Main : Ctrl+1 : DISABLED DEFAULT
+KEY 9 50 0 0		 # Main : Ctrl+2 : DISABLED DEFAULT
+KEY 9 51 0 0		 # Main : Ctrl+3 : DISABLED DEFAULT
+KEY 9 52 0 0		 # Main : Ctrl+4 : DISABLED DEFAULT
+KEY 9 53 0 0		 # Main : Ctrl+5 : DISABLED DEFAULT
+KEY 9 54 0 0		 # Main : Ctrl+6 : DISABLED DEFAULT
+KEY 9 55 0 0		 # Main : Ctrl+7 : DISABLED DEFAULT
+KEY 9 56 0 0		 # Main : Ctrl+8 : DISABLED DEFAULT
+KEY 9 57 0 0		 # Main : Ctrl+9 : DISABLED DEFAULT
+KEY 9 48 0 0		 # Main : Ctrl+0 : DISABLED DEFAULT
+KEY 1 48 0 0		 # Main : 0 : DISABLED DEFAULT
+KEY 1 54 0 0		 # Main : 6 : DISABLED DEFAULT
+KEY 1 56 0 0		 # Main : 8 : DISABLED DEFAULT
+KEY 1 57 0 0		 # Main : 9 : DISABLED DEFAULT
+KEY 255 254 0 0		 # Main : Alt+Shift+Mousewheel : DISABLED DEFAULT
+KEY 1 55 0 0		 # Main : 7 : DISABLED DEFAULT
+KEY 17 67 0 0		 # Main : Alt+C : DISABLED DEFAULT
+KEY 0 43 0 0		 # Main : + : DISABLED DEFAULT
+KEY 1 85 0 0		 # Main : U : DISABLED DEFAULT
+KEY 5 88 0 0		 # Main : Shift+X : DISABLED DEFAULT
+KEY 5 67 0 0		 # Main : Shift+C : DISABLED DEFAULT
+KEY 5 77 6 0		 # Main : Shift+M : OVERRIDE DEFAULT : Track: Toggle mute for selected tracks
+KEY 5 83 7 0		 # Main : Shift+S : OVERRIDE DEFAULT : Track: Toggle solo for selected tracks
+KEY 5 82 9 0		 # Main : Shift+R : OVERRIDE DEFAULT : Track: Toggle record arm for selected tracks
+KEY 255 248 976 0		 # Main : Mousewheel : OVERRIDE DEFAULT : View: Scroll view vertically one page (MIDI CC relative/mousewheel)
+KEY 255 14588 977 0		 # Main : Shift+Mousewheel : View: Scroll horizontally reversed (MIDI CC relative/mousewheel)
+KEY 255 2036 987 0		 # Main : Shift+Win+Mousewheel : Adjust solo in front dim (MIDI CC/mousewheel only)
+KEY 1 99 1013 0		 # Main : Num 3 : OVERRIDE DEFAULT : Transport: Record
+KEY 9 32 1013 0		 # Main : Ctrl+Space : OVERRIDE DEFAULT : Transport: Record
+KEY 1 100 1068 0		 # Main : Num 4 : OVERRIDE DEFAULT : Transport: Toggle repeat
+KEY 9 84 40001 0		 # Main : Ctrl+T : OVERRIDE DEFAULT : Track: Insert new track
+KEY 25 66 40015 0		 # Main : Ctrl+Alt+B : OVERRIDE DEFAULT : File: Render project to disk...
+KEY 13 73 40018 0		 # Main : Ctrl+Shift+I : Insert media files...
+KEY 1 32813 40018 0		 # Main : Insert : OVERRIDE DEFAULT : Insert media files...
+KEY 9 98 40021 0		 # Main : Ctrl+Num 2 : File: Project settings...
+KEY 1 90 40029 0		 # Main : Z : OVERRIDE DEFAULT : Edit: Undo
+KEY 9 90 40029 0		 # Main : Ctrl+Z : OVERRIDE DEFAULT : Edit: Undo
+KEY 5 90 40030 0		 # Main : Shift+Z : OVERRIDE DEFAULT : Edit: Redo
+KEY 13 90 40030 0		 # Main : Ctrl+Shift+Z : OVERRIDE DEFAULT : Edit: Redo
+KEY 9 65 40035 0		 # Main : Ctrl+A : OVERRIDE DEFAULT : Select all items/tracks/envelope points (depending on focus)
+KEY 1 50 40036 0		 # Main : 2 : OVERRIDE DEFAULT : View: Toggle auto-view-scroll during playback
+KEY 1 67 40057 0		 # Main : C : OVERRIDE DEFAULT : Edit: Copy items/tracks/envelope points (depending on focus) ignoring time selection
+KEY 9 67 40057 0		 # Main : Ctrl+C : OVERRIDE DEFAULT : Edit: Copy items/tracks/envelope points (depending on focus) ignoring time selection
+KEY 21 68 40062 0		 # Main : Alt+Shift+D : Track: Duplicate tracks
+KEY 1 102 40076 0		 # Main : Num 6 : OVERRIDE DEFAULT : Record: Set record mode to time selection auto-punch
+KEY 9 187 40078 0		 # Main : Ctrl+= : View: Toggle mixer visible
+KEY 1 69 40113 0		 # Main : E : OVERRIDE DEFAULT : View: Toggle track zoom to maximum height (limit to 100% of arrange view)
+KEY 0 126 40113 0		 # Main : ~ : OVERRIDE DEFAULT : View: Toggle track zoom to maximum height (limit to 100% of arrange view)
+KEY 255 6888 40115 0		 # Main : MediaKbd+Mic+ : OVERRIDE DEFAULT : Track: Nudge track volume up
+KEY 255 6632 40116 0		 # Main : MediaKbd+Mic- : OVERRIDE DEFAULT : Track: Nudge track volume down
+KEY 21 221 40155 0		 # Main : Alt+Shift+] : Peaks: Increase peaks display zoom for project
+KEY 21 219 40156 0		 # Main : Alt+Shift+[ : Peaks: Decrease peaks display zoom for project
+KEY 1 32781 40171 0		 # Main : Num Enter : Markers: Insert and/or edit marker at current position
+KEY 9 77 40183 0		 # Main : Ctrl+M : OVERRIDE DEFAULT : Item properties: Toggle items/tracks mute (depending on focus)
+KEY 1 101 40252 0		 # Main : Num 5 : Record: Set record mode to normal
+KEY 255 3048 40285 0		 # Main : MediaKbd+Track+ : OVERRIDE DEFAULT : Track: Go to next track
+KEY 255 3304 40286 0		 # Main : MediaKbd+Track- : OVERRIDE DEFAULT : Track: Go to previous track
+KEY 29 32808 40287 0		 # Main : Ctrl+Alt+Shift+Down : OVERRIDE DEFAULT : Track: Go to next track (leaving other tracks selected)
+KEY 29 32806 40288 0		 # Main : Ctrl+Alt+Shift+Up : OVERRIDE DEFAULT : Track: Go to previous track (leaving other tracks selected)
+KEY 17 32 40317 0		 # Main : Alt+Space : OVERRIDE DEFAULT : Transport: Play (skip time selection)
+KEY 9 101 40326 0		 # Main : Ctrl+Num 5 : View: Show region/marker manager window
+KEY 29 82 40326 0		 # Main : Ctrl+Alt+Shift+R : OVERRIDE DEFAULT : View: Show region/marker manager window
+KEY 1 103 40364 0		 # Main : Num 7 : OVERRIDE DEFAULT : Options: Toggle metronome
+KEY 9 99 40378 0		 # Main : Ctrl+Num 3 : View: Show big clock plus window
+KEY 1 189 40406 0		 # Main : - : Track: Toggle track volume envelope visible
+KEY 17 97 40454 0		 # Main : Alt+Num 1 : Screenset: Load window set #01
+KEY 1 118 40454 0		 # Main : F7 : OVERRIDE DEFAULT : Screenset: Load window set #01
+KEY 17 98 40455 0		 # Main : Alt+Num 2 : Screenset: Load window set #02
+KEY 1 119 40455 0		 # Main : F8 : OVERRIDE DEFAULT : Screenset: Load window set #02
+KEY 17 100 40456 0		 # Main : Alt+Num 4 : OVERRIDE DEFAULT : Screenset: Load window set #03
+KEY 17 101 40457 0		 # Main : Alt+Num 5 : Screenset: Load window set #04
+KEY 17 102 40458 0		 # Main : Alt+Num 6 : OVERRIDE DEFAULT : Screenset: Load window set #05
+KEY 17 99 40459 0		 # Main : Alt+Num 3 : Screenset: Load window set #06
+KEY 17 105 40460 0		 # Main : Alt+Num 9 : Screenset: Load window set #07
+KEY 17 104 40461 0		 # Main : Alt+Num 8 : Screenset: Load window set #08
+KEY 5 119 40475 0		 # Main : Shift+F8 : OVERRIDE DEFAULT : Screenset: Save window set #02
+KEY 9 189 40716 0		 # Main : Ctrl+- : View: Toggle show MIDI editor windows
+KEY 1 83 40726 0		 # Main : S : OVERRIDE DEFAULT : Envelope: Insert 4 envelope points at time selection
+KEY 45 83 40745 0		 # Main : Ctrl+Shift+Win+S : Options: Solo in front
+KEY 1 191 40839 0		 # Main : / : Move edit cursor forward one measure (no seek)
+KEY 1 77 40840 0		 # Main : M : OVERRIDE DEFAULT : Move edit cursor back one measure (no seek)
+KEY 1 190 40841 0		 # Main : . : Move edit cursor forward one beat (no seek)
+KEY 1 188 40842 0		 # Main : , : Move edit cursor back one beat (no seek)
+KEY 13 77 40906 0		 # Main : Ctrl+Shift+M : OVERRIDE DEFAULT : View: Show track manager window
+KEY 9 82 41051 0		 # Main : Ctrl+R : OVERRIDE DEFAULT : Item properties: Toggle take reverse
+KEY 13 78 41067 0		 # Main : Ctrl+Shift+N : OVERRIDE DEFAULT : Track: Insert multiple new tracks...
+KEY 1 187 41109 0		 # Main : = : Automation: Toggle track between touch and trim/read modes
+KEY 9 71 41111 0		 # Main : Ctrl+G : OVERRIDE DEFAULT : Toolbar: Open toolbar 1 at mouse cursor
+KEY 1 220 41174 0		 # Main : \ : Item navigation: Move cursor to end of items
+KEY 1 81 41305 0		 # Main : Q : Item edit: Trim left edge of item to edit cursor
+KEY 1 87 41311 0		 # Main : W : OVERRIDE DEFAULT : Item edit: Trim right edge of item to edit cursor
+KEY 9 32806 41325 0		 # Main : Ctrl+Up : OVERRIDE DEFAULT : View: Increase selected track heights
+KEY 9 32808 41326 0		 # Main : Ctrl+Down : OVERRIDE DEFAULT : View: Decrease selected track heights
+KEY 25 32806 41327 0		 # Main : Ctrl+Alt+Up : OVERRIDE DEFAULT : View: Increase selected track heights a little bit
+KEY 25 32808 41328 0		 # Main : Ctrl+Alt+Down : OVERRIDE DEFAULT : View: Decrease selected track heights a little bit
+KEY 9 88 41384 0		 # Main : Ctrl+X : OVERRIDE DEFAULT : Edit: Cut items/tracks/envelope points (depending on focus) within time selection, if any (smart cut)
+KEY 1 88 41384 0		 # Main : X : OVERRIDE DEFAULT : Edit: Cut items/tracks/envelope points (depending on focus) within time selection, if any (smart cut)
+KEY 1 49 41817 0		 # Main : 1 : OVERRIDE DEFAULT : View: Continuous scrolling during playback
+KEY 9 75 41819 0		 # Main : Ctrl+K : Pre-roll: Toggle pre-roll on record
+KEY 1 104 41819 0		 # Main : Num 8 : OVERRIDE DEFAULT : Pre-roll: Toggle pre-roll on record
+KEY 1 107 41882 0		 # Main : Num + : OVERRIDE DEFAULT : View: Show monitoring FX chain
+KEY 1 105 41930 0		 # Main : Num 9 : OVERRIDE DEFAULT : Theme development: Show theme tweak/configuration window
+KEY 21 99 42432 0		 # Main : Alt+Shift+Num 3 : Item: Glue items within time selection
+KEY 17 34 42432 0		 # Main : Alt+NumPad Page Down : Item: Glue items within time selection
+KEY 21 34 42432 0		 # Main : Alt+Shift+NumPad Page Down : Item: Glue items within time selection
+KEY 13 71 42432 0		 # Main : Ctrl+Shift+G : OVERRIDE DEFAULT : Item: Glue items within time selection
+KEY 1 112 42455 0		 # Main : F1 : FX: Toggle delta solo for last focused FX
+KEY 9 105 50125 0		 # Main : Ctrl+Num 9 : Video: Show/hide video window
+KEY 13 86 50125 0		 # Main : Ctrl+Shift+V : OVERRIDE DEFAULT : Video: Show/hide video window
+KEY 5 49 _SWS_TRACKCUSTCOL1 0		 # Main : Shift+1 : SWS: Set selected track(s) to custom color 1
+KEY 5 50 _SWS_TRACKCUSTCOL2 0		 # Main : Shift+2 : SWS: Set selected track(s) to custom color 2
+KEY 5 51 _SWS_TRACKCUSTCOL3 0		 # Main : Shift+3 : OVERRIDE DEFAULT : SWS: Set selected track(s) to custom color 3
+KEY 5 52 _SWS_TRACKCUSTCOL4 0		 # Main : Shift+4 : OVERRIDE DEFAULT : SWS: Set selected track(s) to custom color 4
+KEY 5 53 _SWS_TRACKCUSTCOL5 0		 # Main : Shift+5 : OVERRIDE DEFAULT : SWS: Set selected track(s) to custom color 5
+KEY 5 54 _SWS_TRACKCUSTCOL6 0		 # Main : Shift+6 : OVERRIDE DEFAULT : SWS: Set selected track(s) to custom color 6
+KEY 5 55 _SWS_TRACKCUSTCOL7 0		 # Main : Shift+7 : OVERRIDE DEFAULT : SWS: Set selected track(s) to custom color 7
+KEY 5 56 _SWS_TRACKCUSTCOL8 0		 # Main : Shift+8 : OVERRIDE DEFAULT : SWS: Set selected track(s) to custom color 8
+KEY 5 57 _SWS_TRACKCUSTCOL9 0		 # Main : Shift+9 : OVERRIDE DEFAULT : SWS: Set selected track(s) to custom color 9
+KEY 5 48 _SWS_TRACKCUSTCOL10 0		 # Main : Shift+0 : OVERRIDE DEFAULT : SWS: Set selected track(s) to custom color 10
+KEY 5 192 _SWS_TRACKCUSTCOL11 0		 # Main : Shift+` : SWS: Set selected track(s) to custom color 11
+KEY 5 189 _SWS_TRACKCUSTCOL12 0		 # Main : Shift+- : SWS: Set selected track(s) to custom color 12
+KEY 5 187 _SWS_TRACKCUSTCOL13 0		 # Main : Shift+= : SWS: Set selected track(s) to custom color 13
+KEY 17 49 _SWS_ITEMCUSTCOL1 0		 # Main : Alt+1 : OVERRIDE DEFAULT : SWS: Set selected item(s) to custom color 1
+KEY 17 50 _SWS_ITEMCUSTCOL2 0		 # Main : Alt+2 : OVERRIDE DEFAULT : SWS: Set selected item(s) to custom color 2
+KEY 17 51 _SWS_ITEMCUSTCOL3 0		 # Main : Alt+3 : OVERRIDE DEFAULT : SWS: Set selected item(s) to custom color 3
+KEY 17 52 _SWS_ITEMCUSTCOL4 0		 # Main : Alt+4 : OVERRIDE DEFAULT : SWS: Set selected item(s) to custom color 4
+KEY 17 53 _SWS_ITEMCUSTCOL5 0		 # Main : Alt+5 : OVERRIDE DEFAULT : SWS: Set selected item(s) to custom color 5
+KEY 17 54 _SWS_ITEMCUSTCOL6 0		 # Main : Alt+6 : OVERRIDE DEFAULT : SWS: Set selected item(s) to custom color 6
+KEY 17 55 _SWS_ITEMCUSTCOL7 0		 # Main : Alt+7 : OVERRIDE DEFAULT : SWS: Set selected item(s) to custom color 7
+KEY 17 56 _SWS_ITEMCUSTCOL8 0		 # Main : Alt+8 : OVERRIDE DEFAULT : SWS: Set selected item(s) to custom color 8
+KEY 17 57 _SWS_ITEMCUSTCOL9 0		 # Main : Alt+9 : OVERRIDE DEFAULT : SWS: Set selected item(s) to custom color 9
+KEY 17 48 _SWS_ITEMCUSTCOL10 0		 # Main : Alt+0 : OVERRIDE DEFAULT : SWS: Set selected item(s) to custom color 10
+KEY 17 192 _SWS_ITEMCUSTCOL11 0		 # Main : Alt+` : SWS: Set selected item(s) to custom color 11
+KEY 17 189 _SWS_ITEMCUSTCOL12 0		 # Main : Alt+- : SWS: Set selected item(s) to custom color 12
+KEY 17 187 _SWS_ITEMCUSTCOL13 0		 # Main : Alt+= : SWS: Set selected item(s) to custom color 13
+KEY 1 79 _RSb52f439c3fdfa36bc5dc9f2b7acfe62d8e67f9bf 0		 # Main : O : Script: Daniel_Change track routing from main to processing bus.lua
+KEY 5 76 _RSffe1527d99e5f80610a082b66923bca59d6b9e8e 0		 # Main : Shift+L : OVERRIDE DEFAULT : Script: Daniel_Extend razor edit area to the left.lua
+KEY 1 89 _RS9a3c45ee0677ca7673f897a0785dc7f2180d2f06 0		 # Main : Y : OVERRIDE DEFAULT : Script: Daniel_Move selected item to start of project.lua
+KEY 1 53 _RSc5c30dc289b1dca725e9bf80c22e19a0fad74a35 0		 # Main : 5 : OVERRIDE DEFAULT : Script: Daniel_Horizontal zoom preset 5.lua
+KEY 1 52 _RSa69d5e4d52afb4f2632e011e57f25e8486ccd450 0		 # Main : 4 : OVERRIDE DEFAULT : Script: Daniel_Horizontal zoom preset 4.lua
+KEY 1 51 _RSfe357520d7b01a292e61badf3c5f17363a3f52b9 0		 # Main : 3 : OVERRIDE DEFAULT : Script: Daniel_Horizontal zoom preset 3.lua
+KEY 1 82 _RS0b6ff327ab8a0206af48a21071f8a3c312ed549d 0		 # Main : R : OVERRIDE DEFAULT : Script: Daniel_Zoom out horizontal.lua
+KEY 1 84 _RSa53dfc916138493adc5714520c1cbd03c4da5d15 0		 # Main : T : OVERRIDE DEFAULT : Script: Daniel_Zoom in horizontal.lua
+KEY 17 65 _RS2eab2d1b0e0310b6b7a95d07c6d6c032fe2a60f1 0		 # Main : Alt+A : Script: Daniel_Zoom out project.lua
+KEY 5 73 _RSed0b475a38784d5262719d1418eaf40d41487443 0		 # Main : Shift+I : Script: Daniel_Toggle input monitoring.lua
+KEY 1 192 _RS4d509fc1fa50b610d51ce2c4a85a28a40b1577a7 0		 # Main : ` : Script: Daniel_Toggle expand folder track in mixer and edit window.lua
+KEY 1 222 _RS82870ab6918ac03956469746545bfcb8a6603ee9 0		 # Main : ' : Script: Daniel_Tab to transient or items (forward).lua
+KEY 1 9 _RS82870ab6918ac03956469746545bfcb8a6603ee9 0		 # Main : Tab : OVERRIDE DEFAULT : Script: Daniel_Tab to transient or items (forward).lua
+KEY 1 76 _RS0a7a2199d37a7c3ae6b623f6972509d0c28eb61d 0		 # Main : L : OVERRIDE DEFAULT : Script: Daniel_Tab to transient or items (backward).lua
+KEY 9 66 _RS6aad7a098fc5dd04666149374b5a13f9637e58b9 0		 # Main : Ctrl+B : OVERRIDE DEFAULT : Script: Daniel_Split items at selection (if exists), else at edit cursor.lua
+KEY 1 66 _RS6aad7a098fc5dd04666149374b5a13f9637e58b9 0		 # Main : B : Script: Daniel_Split items at selection (if exists), else at edit cursor.lua
+KEY 1 80 _RSd9685022e44649dbae272b1fb10c99cd959211ee 0		 # Main : P : OVERRIDE DEFAULT : Script: Daniel_Select up track.lua
+KEY 5 80 _RS9a2811c06befb7729cca06d714b98e037ff48e0d 0		 # Main : Shift+P : Script: Daniel_Select up track(add).lua
+KEY 5 65 _RS1767c6f81e0b5510e995ccaac594d81449baf2ce 0		 # Main : Shift+A : Script: Daniel_Select everything before edit cursor.lua
+KEY 5 13 _RS1767c6f81e0b5510e995ccaac594d81449baf2ce 0		 # Main : Shift+Enter : Script: Daniel_Select everything before edit cursor.lua
+KEY 1 65 _RS37387d4e31b992883cde93424b285fd94c9ee0ad 0		 # Main : A : Script: Daniel_Select everything after edit cursor.lua
+KEY 21 13 _RS37387d4e31b992883cde93424b285fd94c9ee0ad 0		 # Main : Alt+Shift+Enter : Script: Daniel_Select everything after edit cursor.lua
+KEY 1 186 _RS58f88f914ea683b9623db4681d8a21638f95f672 0		 # Main : ; : Script: Daniel_Select down track.lua
+KEY 5 186 _RS8e00eb32f6c6a6c4742a8c56f15ee571fa3d8fe0 0		 # Main : Shift+; : Script: Daniel_Select down track(add).lua
+KEY 5 188 _RSba7a45c0e143950ade67eea1082933283902c192 0		 # Main : Shift+, : Script: Daniel_Rewind.lua
+KEY 1 97 _RSba7a45c0e143950ade67eea1082933283902c192 0		 # Main : Num 1 : OVERRIDE DEFAULT : Script: Daniel_Rewind.lua
+KEY 1 96 _RS22fc8c5f7cebdaa5c344f2ddf492a9e86531e472 0		 # Main : Num 0 : Script: Daniel_Play-Stop.lua
+KEY 1 32 _RS22fc8c5f7cebdaa5c344f2ddf492a9e86531e472 0		 # Main : Space : OVERRIDE DEFAULT : Script: Daniel_Play-Stop.lua
+KEY 1 32806 _RS18168549856c262e5943c8d4c0a6e676b5dbb1b3 0		 # Main : Up : OVERRIDE DEFAULT : Script: Daniel_Move edit cursor to play cursor.lua
+KEY 1 32808 _RS18168549856c262e5943c8d4c0a6e676b5dbb1b3 0		 # Main : Down : OVERRIDE DEFAULT : Script: Daniel_Move edit cursor to play cursor.lua
+KEY 9 86 _RSa405821fb80d64b8aa5261a7f041fdaf96be4268 0		 # Main : Ctrl+V : OVERRIDE DEFAULT : Script: Daniel_Paste items-tracks.lua
+KEY 1 86 _RSa405821fb80d64b8aa5261a7f041fdaf96be4268 0		 # Main : V : OVERRIDE DEFAULT : Script: Daniel_Paste items-tracks.lua
+KEY 1 78 _RS3954f4d6fde790290a4c7e86538380193bf6db74 0		 # Main : N : OVERRIDE DEFAULT : Script: Daniel_Insertion follows playback.lua
+KEY 1 72 _RS800b2174ef3d288a17d08b43cbd0285cb1d4377d 0		 # Main : H : Script: Daniel_Heal splits.lua
+KEY 9 72 _RS800b2174ef3d288a17d08b43cbd0285cb1d4377d 0		 # Main : Ctrl+H : Script: Daniel_Heal splits.lua
+KEY 5 32 _RS3103e156db24ecdfcea3113b3d1550de3515754d 0		 # Main : Shift+Space : Script: Daniel_Half speed playback.lua
+KEY 1 32805 _RS057feeedacb7ff3f150f72b3113c5937d1d5d88f 0		 # Main : Left : OVERRIDE DEFAULT : Script: Daniel_Go to start of time selection.lua
+KEY 1 13 _RS93f3bfcd0f63f9addcead9b99369a47949d236a0 0		 # Main : Enter : OVERRIDE DEFAULT : Script: Daniel_Go to start of project.lua
+KEY 1 32807 _RSb1118b69cdc300a15ea4a25560bc1beec1292096 0		 # Main : Right : OVERRIDE DEFAULT : Script: Daniel_Go to end of time selection.lua
+KEY 17 13 _RSca054edd6b40163da02c34a0ab5a87991dc67ff5 0		 # Main : Alt+Enter : OVERRIDE DEFAULT : Script: Daniel_Go to end of project.lua
+KEY 5 190 _RS526c27666a1340e4acc29d4d913e2f7275357f35 0		 # Main : Shift+. : Script: Daniel_Fast forward.lua
+KEY 1 98 _RS526c27666a1340e4acc29d4d913e2f7275357f35 0		 # Main : Num 2 : OVERRIDE DEFAULT : Script: Daniel_Fast forward.lua
+KEY 9 70 _RS4766906eccc8c1e6e4a77aa3737995b654ab81e7 0		 # Main : Ctrl+F : Script: Daniel_Fade in, out, crossfade.lua
+KEY 1 70 _RS4766906eccc8c1e6e4a77aa3737995b654ab81e7 0		 # Main : F : OVERRIDE DEFAULT : Script: Daniel_Fade in, out, crossfade.lua
+KEY 5 32808 _RS452d51d36e5aef4e7af83a3628921433a77b9d0c 0		 # Main : Shift+Down : OVERRIDE DEFAULT : Script: Daniel_Extend selection to play cursor (during plaback).lua
+KEY 5 32806 _RS452d51d36e5aef4e7af83a3628921433a77b9d0c 0		 # Main : Shift+Up : OVERRIDE DEFAULT : Script: Daniel_Extend selection to play cursor (during plaback).lua
+KEY 5 222 _RS05a03347aa4480d19fa19c5fe811c76ca00aa119 0		 # Main : Shift+' : Script: Daniel_Extend razor edit area to the right.lua
+KEY 5 9 _RS05a03347aa4480d19fa19c5fe811c76ca00aa119 0		 # Main : Shift+Tab : OVERRIDE DEFAULT : Script: Daniel_Extend razor edit area to the right.lua
+KEY 1 27 _RS20cb8cdf6b60ff5ddb600f056c0a9a1abe6da44f 0		 # Main : ESC : OVERRIDE DEFAULT : Script: Daniel_Clear selection.lua
+KEY 33 105 _RSf2f1fe8e459e24331be0848261711820cc79784e 0		 # Main : Win+Num 9 : Script: Daniel_Double speed playback.lua
